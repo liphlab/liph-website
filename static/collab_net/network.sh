@@ -30,9 +30,11 @@ echo "" > $TEMP
 
 
 #look for every file in _publications/, and extracts useful information and puts it into files needed to generate the network
-for filename in ../../content/publication/*
+for dir in ../../content/publication/*
 do
-	reducedname=$(echo $filename | cut -d '/' -f 5)
+    for filename in "$dir"/*
+    do
+        reducedname=$(echo $filename | cut -d '/' -f 5)
 	if (echo $reducedname | grep -qi "_index.md"); then continue
 	else
 		sed -nr 's/.*authors = \[(.*)\].*/\1/p' $filename | tr -d \" >> $TEMP_AUTH		#extracts the author names from the file
@@ -40,6 +42,7 @@ do
 		sed -nr 's/.*url = (.*).*/\1/p' $filename | tr -d \" | tr -d \} | tr -d \] >> $OUTPUT_URL			#extracts the url of the article from the file
 		sed -nr 's/.*publication_types = (.*).*/\1/p' $filename | tr -d \" >> $OUTPUT_TYPE		#extracts the journal of the publication
 	fi
+    done
 done
 
 
