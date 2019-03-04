@@ -27,6 +27,6 @@ image = ""
 caption = ""
 +++
 
-PhD calls for the XXXV cycle (academic year 2019-2020) have not been opened yet. Please check the <a href="https://www.unipd.it/en/node/1053">unipd</a> website to see if calls are open.
+PhD calls for the XXXV cycle (academic year 2019-2020) have not been opened yet. Please check the <a href="https://www.unipd.it/en/node/1053">dedicated website</a> to see if calls are open.
 
 For any question, do no hesitate to contact us!
