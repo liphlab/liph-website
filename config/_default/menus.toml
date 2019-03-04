@@ -3,39 +3,85 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "Home"
-  url = "#about"
-  weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+  name = "Research"
+  url = "#research"
+  weight = 2
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+  name = "People"
+  url = "#people"
+  weight = 3
 
 [[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  identifier = "publications"
+  weight = 4
 
 [[main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 50
+  parent = "publications"
+  name = "Selected publications"
+  url = "#publications_featured"
+  weight = 5
+
+[[main]]
+  parent = "publications"
+  name = "Recent publications"
+  url = "#publications"
+  weight = 6
+
+[[main]]
+  name = "Collaborators"
+  identifier = "collaborators"
+  weight = 7
+
+[[main]]
+  parent = "collaborators"
+  name = "Collaboration network"
+  url = "#network"
+  weight = 8
+
+[[main]]
+  parent = "collaborators"
+  name = "Collaborators"
+  url = "#collaborators"
+  weight = 9
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 10
+
+[[main]]
+  name = "Opportunities"
+  url = "#opportunities"
+  weight = 11
+
+[[main]]
+  name = "Workshops"
+  identifier = "workshops"
+  weight = 12
+
+[[main]]
+  parent = "workshops"
+  name = "Winter workshop 2018"
+  url = "/workshops/winter-workshop-2018"
+  weight = 13
+
+[[main]]
+  name = "LIPh life"
+  url = "/liphlife/gallery-calendar"
+  weight = 14
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 15
 
-# Link to a PDF of your resume/CV from the menu.
+# Link to a PDF of your resume/CV from the 
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
 #    url = "files/cv.pdf"
-#    weight = 70
+#    weight = 7

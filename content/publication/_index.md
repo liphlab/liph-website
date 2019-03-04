@@ -1,5 +1,7 @@
 +++
 title = "Publications"
+math = true
+highlight = false
 
 # View.
 #   1 = List

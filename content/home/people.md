@@ -1,20 +1,83 @@
 +++
-# People widget.
-widget = "people"  # Do not modify this line!
-active = false  # Activate this widget? true/false
+# Projects widget.
+widget = "projects"
+active = true
 
 title = "People"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 68
+weight = 3
 
-# List user groups to display.
-#   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["Principal Investigators",
-               "Researchers",
-               "Grad Students",
-               "Administration",
-               "Visitors",
-               "Alumni"]
+# Content.
+# Display content from the following folder.
+# For example, `folder = "project"` displays content from `content/project/`.
+folder = "people"
+
+# View.
+# Customize how projects are displayed.
+# Legend:
+#    1 = List (previously Simple)
+#    2 = Compact (previously Stream)
+#    3 = Card (previously Detailed)
+#    4 = Citation (previously APA and MLA), only available for publications
+#        Optionally, edit the value of citation_style in params.toml to APA or MLA
+#    5 = Showcase (large images), only available for projects
+view = 3
+
+# Widget layout
+# Legend: 0 = two columns (default), 1 = single column
+widget_layout = 0
+
+# For Showcase view, flip alternate rows?
+flip_alt_rows = false
+
+# Filter toolbar.
+
+# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
+filter_default = 0
+
+# Add or remove as many filters (`[[filter]]` instances) as you like.
+# To show all items, set `tag` to " x* ".
+# To filter by a specific tag, set `tag` to an existing tag name.
+# To remove toolbar, delete/comment all instances of `[[filter]]` below.
+[[filter]]
+  name = "All"
+  tag = "people"
+
+[[filter]]
+  name = "SPAED"
+  tag = "SPAED"
+
+[[filter]]
+  name = "SPAN"
+  tag = "SPAN"
+
+[[filter]]
+  name = "ReACT"
+  tag = "ReACT"
+
+#[[filter]]
+#  name = "QuCoBiM"
+#  tag = "QuCoBiM"
+
+[[filter]]
+  name = "Other"
+  tag = "QucoBiM, NeSM, ProBiPoNaM, miscellaneous"
+
+#[[filter]]
+#  name = "NeSM"
+#  tag = ".NeSM"
+
+#[[filter]]
+#  name = "ProBiPoNaM"
+#  tag = ".ProBiPoNaM"
+
+#[[filter]]
+#  name = "Miscellaneous"
+#  tag = "miscellaneous"
+
+[[filter]]
+  name = "Past members"
+  tag = "past-members"
 +++

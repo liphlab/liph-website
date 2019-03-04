@@ -1,0 +1,32 @@
+------ themes/academic/layouts/partials/css/academic.css ------
+-> Lines 422-428 changed to:
+    height: 200px;
+    width: 200px;
+    display: inherit;
+    margin: 0;
+    padding: 4px;
+    box-shadow: none;
+    vertical-align: inherit;
+    object-fit: cover;
+-> Field "portrait" (line 695) changed to:
+    width: 600px;
+    height: 600px;
+    margin-top: -8em;
+    margin-bottom: -8em;
+    object-fit: contain;
+
+------ themes/academic/layouts/partials/page_header.html ------
+-> Line 59, added vspace="25" in <img> field
+
+------ themes/academic/layouts/partials/page_links.html ------
+-> Lines 128-133 changed to:
+    {{ with $.Params.doi }}
+    <!--<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
+        DOI
+    </a>-->
+    {{ end }}
+    {{ range $.Params.url_custom }}
+
+------ themes/academic/layouts/partials/widgets/about.html ------
+-> Line 27 changed to:
+{{ $avatar_image := $avatar.Fill "4666x4666 Center"}}
