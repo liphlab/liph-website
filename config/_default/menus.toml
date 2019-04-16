@@ -59,14 +59,20 @@
   weight = 11
 
 [[main]]
-  name = "Workshops"
-  identifier = "workshops"
+  name = "Events"
+  identifier = "events"
   weight = 12
 
 [[main]]
-  parent = "workshops"
+  parent = "events"
   name = "Winter workshop 2018"
   url = "/workshops/winter-workshop-2018"
+  weight = 13
+
+[[main]]
+  parent = "events"
+  name = "Summer School in neuroscience"
+  url = "https://neuroschool19.liphlab.com"
   weight = 13
 
 [[main]]
@@ -79,7 +85,7 @@
   url = "#contact"
   weight = 15
 
-# Link to a PDF of your resume/CV from the 
+# Link to a PDF of your resume/CV from the
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
