@@ -72,7 +72,7 @@
 [[main]]
   parent = "events"
   name = "Summer School in neuroscience"
-  url = "https://neuroschool19.liphlab.com"
+  url = "https://liphlab.github.io/ContamiNeuro/"
   weight = 13
 
 [[main]]
