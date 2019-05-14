@@ -27,12 +27,47 @@ image = ""
 caption = ""
 +++
 
-<!--<a href="http://www.unipd.it/en/research/marie-sklodowska-curie-actions/msca-individual-fellowships">Marie Curie individual fellowships</a> are now available: the call is open from 11 April 2017 to <span style="color:red">12 September 2018</span>.
-If you want to apply for our lab, contact us!
+The LIPh Group invites applications for a postdoctoral position in Statistical Physics and Complex Systems.
 
-The Marie Curie Fellows hosted by the University of Padova not funded by the EC, but awarded with the <a href="http://www.unipd.it/en/msca-seal-excellence-unipd">Seal of Excellence</a> will have the possibility to be funded by the University of Padova. More information here.
-The University of Padova organizes regular <a href="http://www.unipd.it/en/msca-marathon18">workshops</a> in support of the project writing and application.-->
+**Profile**: The successful candidate will be expected to engage in internationally-leading research in Statistical Physics and Complex Systems or cognate fields, to contribute collegially to the multidisciplinary research activities of the LIPh Group and to its management. The researcher will have the ability to supervise the work of others to focus team efforts, a track record of publications in high quality peer-reviewed scientific journals and a proven ability to carry out high quality research in one or more of the following research fields:
+<ul>
+  <li>Statistical Physics modelling of Ecological systems</li>
+  <li>Non Equilibrium Statistical Mechanics</li>
+  <li>Applied Stochastic Processes</li>
+  <li>Biologically inspired Complex Systems</li>
+</ul>  
 
 
-## Post-doc positions funded  by our group
-We have temporarily closed the applications for postdoctoral positions. Exceptional candidates may be considered and new calls are periodically available. Please contact us for more information.
+
+**Salary**: Depending on candidate expertise. Competitive for Italian living standards.
+
+**Formal requirements**: Candidates should hold a PhD or post-doctoral experience in a subject area relevant to the profile. Excellent communication skills in written and spoken English and ability to communicate complex information to individuals from a range of disciplines are mandatory.
+
+**Research Environment**: The LIPh group is active on a broad spectrum of subject areas and it is a vibrant, interdisciplinary research team that greatly benefits from collaborations all around the world.
+
+The University of Padova is one of the most prestigious and big universities in Italy. Padova is a small and beautiful town, enriched by cultural and artistic activities and shaped around the University. Low living costs, great food, and you can bike everywhere!
+
+The successful candidate will work in close collaboration with Sandro Azaele, Samir Suweis and Amos Maritan.
+
+**How to apply**: Interested applicants are invited to submit a CV, list of publications, a brief cover letter (max one A4 page) and at least two letters of recommendation. We particularly welcome applications from women or from ethnic minorities.
+
+All material should be sent to liph(dot)unipd(at)gmail(dot)com. ***The deadline for applications is July 15th, 2019***. Later applications will be considered until the position will be filled.
+
+
+<!--The LIPh Group invites applications for a postdoctoral position in Statistical Physics and Complex Systems.
+
+**Profile**: The successful candidate will be expected to engage in internationally-leading research in Statistical Physics and Complex Systems or cognate fields, to contribute collegially to the multidisciplinary research activities of the LIPh Group and to its management. The researcher will have the ability to supervise the work of others to focus team efforts, a track record of publications in high quality peer-reviewed scientific journals and a proven ability to carry out high quality research in one or more of the following research fields:
+- Statistical Physics modelling of Ecological systems
+- Non Equilibrium Statistical Mechanics
+- Applied Stochastic Processes
+- Biological inspired Complex Systems  
+
+**Salary**: Depending on candidate expertise. Competitive for Italian living standards.
+
+**Formal requirements**: Candidates should hold a PhD or post-doctoral experience in a subject area relevant to the profile. Excellent communication skills in written and spoken English and ability to communicate complex information to individuals from a range of disciplines are mandatory.
+
+**Research Environment**: The LIPh group is active on a broad spectrum of subject areas and it is a vibrant, interdisciplinary research team that greatly benefits from collaborations all around the world.
+
+The University of Padova is one of the most prestigious and big universities in Italy. Padova is a small and beautiful town, enriched by cultural and artistic activities and shaped around the University. Low living costs, great food, and you can bike everywhere!
+
+The successful candidate will work in close collaboration with Sandro Azaele, Samir Suweis. -->
