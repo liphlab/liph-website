@@ -49,9 +49,9 @@ The University of Padova is one of the most prestigious and big universities in 
 
 The successful candidate will work in close collaboration with Sandro Azaele, Samir Suweis and Amos Maritan.
 
-**How to apply**: Interested applicants are invited to submit a CV, list of publications, a brief cover letter (max one A4 page) and at least two letters of recommendation. We particularly welcome applications from women or from ethnic minorities.
+**How to apply**: Interested applicants are invited to submit a CV, list of publications and a brief cover letter (max one A4 page). We particularly welcome applications from women or from ethnic minorities.
 
-All material should be sent to liph(dot)unipd(at)gmail(dot)com. ***The deadline for applications is July 15th, 2019***. Later applications will be considered until the position will be filled.
+All material should be sent to liph(dot)unipd(at)gmail(dot)com. ***The deadline for applications is November 7th, 2019***. Later applications will be considered until the position will be filled.
 
 
 <!--The LIPh Group invites applications for a postdoctoral position in Statistical Physics and Complex Systems.
