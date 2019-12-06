@@ -27,6 +27,8 @@ image = ""
 caption = ""
 +++
 
-PhD calls for the XXXV cycle (academic year 2019-2020) have not been opened yet. Please check the <a href="https://www.unipd.it/en/node/1053">dedicated website</a> to see if calls are open.
+PhD calls for the XXXV cycle (academic year 2019-2020) have closed.
+
+Chinese students can take advantage of the [https://www.unipd.it/en/admissions-csc-candidates](China Scholarship Council grant) to find funding for postdoc positions. The grant call opens on January 11th, 2020.
 
 For any question, do no hesitate to contact us!
