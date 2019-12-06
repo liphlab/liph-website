@@ -29,6 +29,6 @@ caption = ""
 
 PhD calls for the XXXV cycle (academic year 2019-2020) have closed.
 
-Chinese students can take advantage of the [https://www.unipd.it/en/admissions-csc-candidates](China Scholarship Council grant) to find funding for postdoc positions. The grant call opens on January 11th, 2020.
+Chinese students can take advantage of the [China Scholarship Council grant](https://www.unipd.it/en/admissions-csc-candidates) to find funding for postdoc positions. The grant call opens on January 11th, 2020.
 
 For any question, do no hesitate to contact us!
