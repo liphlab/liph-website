@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["phd-course"]
+tags = ["current-course,phd-course"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://pnc.unipd.it/"

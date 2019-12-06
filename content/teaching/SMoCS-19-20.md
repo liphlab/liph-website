@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["bachelor-course"]
+tags = ["current-course,bachelor-course"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://en.didattica.unipd.it/off/2018/LM/IN/IN2191/001PD/INP5070381/N0"

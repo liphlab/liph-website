@@ -47,7 +47,7 @@ filter_default = 0
 
 [[filter]]
   name = "All"
-  tag = "bachelor-course, master-course, phd-course"
+  tag = "current-course"
 
 [[filter]]
   name = "Bachelor"
