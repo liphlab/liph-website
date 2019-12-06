@@ -14,7 +14,7 @@ summary = "Former PhD student (2012-2015)"
 tags = ["past-members"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.santafe.edu/people/profile/jacopo-grilli"
+external_link = "https://jacopogrilli.github.io/"
 
 # Does the project detail page use math formatting?
 math = false

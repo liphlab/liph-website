@@ -1,20 +1,22 @@
 +++
 # Date this page was created.
-# We use this to control sort order, most recent dates appear first
-date = "2018-12-15"
+date = "2019-12-06"
 
 # Project title.
-title = "Sandro Azaele"
+title = "Network Neuroscience"
 
 # Project summary to display on homepage.
-summary = "Full professor"
+summary = "Ph.D. course in Neuroscience, Padova Neuroscience Center, Academic Year 2019-2020"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]``
-tags = ["people", "SPAED", "ReACT"]
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["phd-course"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www1.maths.leeds.ac.uk/~fbssaz/contacts.html"
+external_link = "http://pnc.unipd.it/"
 
 # Does the project detail page use math formatting?
 math = false
@@ -23,5 +25,4 @@ math = false
 [header]
 image = ""
 caption = ""
-
 +++

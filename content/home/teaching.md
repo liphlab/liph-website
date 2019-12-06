@@ -47,7 +47,7 @@ filter_default = 0
 
 [[filter]]
   name = "All"
-  tag = "bachelor-course, master-course"
+  tag = "bachelor-course, master-course, phd-course"
 
 [[filter]]
   name = "Bachelor"
@@ -56,6 +56,10 @@ filter_default = 0
 [[filter]]
   name = "Master"
   tag = "master-course"
+
+[[filter]]
+  name = "PhD"
+  tag = "phd-course"
 
 [[filter]]
   name = "Past courses"
