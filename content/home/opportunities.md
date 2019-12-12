@@ -26,7 +26,7 @@ folder = "opportunities"
 #    4 = Citation (previously APA and MLA), only available for publications
 #        Optionally, edit the value of citation_style in params.toml to APA or MLA
 #    5 = Showcase (large images), only available for projects
-view = 3
+view = 1
 
 # Widget layout
 # Legend: 0 = two columns (default), 1 = single column
@@ -50,18 +50,18 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "PhD"
-  tag = "phd-positions"
-
-[[filter]]
-  name = "Post-doc"
-  tag = "postdoc-positions"
-
-[[filter]]
   name = "Bachelor's thesis"
   tag = "bachelor-thesis-proposal"
 
 [[filter]]
   name = "Master's thesis"
   tag = "master-thesis-proposal"
+
+[[filter]]
+  name = "PhD"
+  tag = "phd-positions"
+
+[[filter]]
+  name = "Post-doc"
+  tag = "postdoc-positions"
 +++
