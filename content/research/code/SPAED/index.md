@@ -13,7 +13,7 @@ summary = "R code"
 tags = ["code-data"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/annatovo/Upscaling-Species-Richness-and-Abundances-in-Tropical-Forests"
+external_link = "https://github.com/liphlab/Upscaling-Species-Richness-and-Abundances-in-Tropical-Forests"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
