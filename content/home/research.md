@@ -55,4 +55,8 @@ filter_default = 0
 [[filter]]
   name = "Open codes and data"
   tag = "code-data"
+
+[[filter]]
+  name = "Old projects"
+  tag = "old-research-project"
 +++
