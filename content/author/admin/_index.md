@@ -60,7 +60,7 @@ user_groups = [
   icon = "envelope"
   icon_pack = "fas"
 # For a direct email link, use "mailto:test@example.org".
-  link = "#contact"  
+  link = "mailto:liph.unipd@gmail.com"  
 
 [[social]]
   icon = "twitter"

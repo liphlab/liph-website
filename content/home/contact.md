@@ -16,5 +16,6 @@ autolink = true
 #   0: Disable email form
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
-email_form = 1
+email_form = 0
 +++
+You can contact our group via [email](mailto:liph.unipd@gmail.com), or you can write individually to the Professors of the group (see [People](#people)).
