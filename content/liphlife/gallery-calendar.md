@@ -13,8 +13,18 @@ subtitle = ""
 
 [[gallery_item]]
 album = "LIPh_life"
+image = "liph_life/folgaria2020.jpg"
+caption = "Hiking in the mountains near Folgaria (2020-01-17)"
+
+[[gallery_item]]
+album = "LIPh_life"
 image = "liph_life/biliardo.jpg"
 caption = "Playing pool at Berlino pub (2019-01-24)"
+
+[[gallery_item]]
+album = "LIPh_life"
+image = "liph_life/folgaria2018_group.jpg"
+caption = "Group photo in Folgaria (2018-12-18)"
 
 [[gallery_item]]
 album = "LIPh_life"
