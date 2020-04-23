@@ -1,7 +1,7 @@
 +++
 # Title and date of the paper
 title = "DNA sequence symmetries from randomness: the origin of the Chargaff’s second parity rule"
-date = "2020-04-28"
+date = "2020-04-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Piero Fariselli", "Cristian Taccioli", "Luca Pagani", "Amos Maritan"]
@@ -18,7 +18,7 @@ authors = ["Piero Fariselli", "Cristian Taccioli", "Luca Pagani", "Amos Maritan"
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Briefings in Bioinformatic"
+publication = "Briefings in Bioinformatics"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -6,7 +6,7 @@ widget = "projects"
 active = true
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Join"
+title = "Join the lab"
 subtitle = ""
 
 # Order that this section will appear in.

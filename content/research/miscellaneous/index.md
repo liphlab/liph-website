@@ -6,7 +6,7 @@ title = "Miscellaneous"
 date = "2018-01-01"
 
 # Project summary to display on homepage.
-summary = " "
+summary = "miscellaneous"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

@@ -54,8 +54,8 @@
   weight = 10
 
 [[main]]
-  name = "Opportunities"
-  url = "#opportunities"
+  name = "Join the lab"
+  url = "#join"
   weight = 11
 
 [[main]]
