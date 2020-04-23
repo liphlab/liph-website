@@ -27,8 +27,6 @@ image = ""
 caption = ""
 +++
 
-PhD calls for the XXXV cycle (academic year 2019-2020) have closed.
-
-Chinese students can take advantage of the [China Scholarship Council grant](https://www.unipd.it/en/admissions-csc-candidates) to find funding for postdoc positions. The grant call opens on January 11th, 2020.
+PhD calls for the XXXVI cycle (academic year 2020-2021) will be open from May 4th, 2020 to June 16th, 2020. For more information, please visit the [Department website](https://www.dfa.unipd.it/index.php?id=phd-physics).
 
 For any question, do no hesitate to contact us!
