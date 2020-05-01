@@ -7,7 +7,7 @@ date = "2018-12-30"
 title = "Amos Maritan"
 
 # Project summary to display on homepage.
-summary = "Full professor"
+summary = "Professor"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
