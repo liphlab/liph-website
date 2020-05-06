@@ -37,5 +37,5 @@ Department of Physics and Astronomy, currently consisting of 15 staff members an
 
  The gross salary will be approximatively € 36.000 per year. Only 10% of the gross salary will be taxed if the research fellow is moving to Italy after at least two years spent abroad.
 
-Deadline is 4 June and the official application is available online [here][https://pica.cineca.it/unipd/]. Cod: 2020RUA01
-For additional information liphlab@unipd.it and visit the [Department's website][https://www.dfa.unipd.it/index.php?id=2015] (in Italian) for more details on the application procedure.
+Deadline is 4 June and the official application is available online [here](https://pica.cineca.it/unipd/). Cod: 2020RUA01
+For additional information liphlab@unipd.it and visit the [Department's website](https://www.dfa.unipd.it/index.php?id=2015) (in Italian) for more details on the application procedure.
