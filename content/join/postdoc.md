@@ -6,7 +6,7 @@ date = "2018-06-07"
 title = "Post-doc positions"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "We currently do not have open postdoc positions"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""

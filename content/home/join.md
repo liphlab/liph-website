@@ -64,6 +64,11 @@ filter_default = 0
 [[filter]]
   name = "Post-doc"
   tag = "postdoc-positions"
+
+[[filter]]
+  name = "Faculty positions"
+  tag = "faculty-positions"
+
 +++
 
 We propose theses in the field of Statistical Physics of Complex Systems, applied (but not limited) to ecology, biology, neuroscience and machine learning. Our thesis students will be invited to join the lab activities such us journal club, research discussion, etc…
