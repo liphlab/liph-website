@@ -39,4 +39,4 @@ The gross salary will be approximatively € 36.000 per year. Only 10% of the gr
 
 Deadline is 4 June and the official application is available online [here](https://pica.cineca.it/unipd/). Cod: 2020RUA01
 
-For additional information liphlab@unipd.it and visit the [Department's website](https://www.dfa.unipd.it/index.php?id=2015) (in Italian) for more details on the application procedure.
+For additional information liph.unipd@gmail.com and visit the [Department's website](https://www.dfa.unipd.it/index.php?id=2015) (in Italian) for more details on the application procedure.
