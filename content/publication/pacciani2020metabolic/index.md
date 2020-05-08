@@ -46,7 +46,7 @@ tags = []
 
 # Links. It is ***STRONGLY*** suggested to insert at least the link to the webpage of the publisher where the article is published.
 # In order to do so, simply replace http://example.org with the desired url. Do not change the field "Website"
-url_custom = [{name = "Website", url = " https://doi.org/10.1371/journal.pcbi.1007896"}]
+url_custom = [{name = "Website", url = "https://doi.org/10.1371/journal.pcbi.1007896"}]
 url_pdf = ""
 url_preprint = ""
 url_code = ""
