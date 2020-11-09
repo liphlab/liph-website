@@ -1,20 +1,20 @@
 +++
 # Date this page was created.
 # We use this to control sort order, most recent dates appear first
-date = "2017-01-01"
+date = "2018-09-15"
 
 # Project title.
-title = "Sandro Azaele"
+title = "Meghdad Saeedian"
 
 # Project summary to display on homepage.
-summary = "Former PhD student (2004-2007)"
+summary = "Postdoctoral researcher"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
-tags = ["past-members"]
+tags = ["people", "SPAED"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www1.maths.leeds.ac.uk/~fbssaz/bio.html"
+external_link = "https://scholar.google.com/citations?user=bopTQNsAAAAJ&hl=en"
 
 # Does the project detail page use math formatting?
 math = false
@@ -25,3 +25,5 @@ image = ""
 caption = ""
 
 +++
+
+My main area of research is the study of the stability of the emerged phenomena in large-size ecological and social complex systems.
