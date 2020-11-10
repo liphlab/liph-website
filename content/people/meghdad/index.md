@@ -14,7 +14,7 @@ summary = "Postdoctoral researcher"
 tags = ["people", "SPAED"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://scholar.google.com/citations?user=bopTQNsAAAAJ&hl=en"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -27,3 +27,5 @@ caption = ""
 +++
 
 My main area of research is the study of the stability of the emerged phenomena in large-size ecological and social complex systems.
+
+Check my [Google Scholar](https://scholar.google.com/citations?user=bopTQNsAAAAJ&hl=en){:target="_blank"}<!--_-->.
