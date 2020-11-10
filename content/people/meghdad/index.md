@@ -28,4 +28,4 @@ caption = ""
 
 My main area of research is the study of the stability of the emerged phenomena in large-size ecological and social complex systems.
 
-Check my [Google Scholar](https://scholar.google.com/citations?user=bopTQNsAAAAJ&hl=en){:target="_blank"}<!--_-->.
+Check my Google Scholar page: https://scholar.google.com/citations?user=bopTQNsAAAAJ&hl=en
