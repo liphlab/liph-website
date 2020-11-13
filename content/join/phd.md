@@ -6,7 +6,7 @@ date = "2018-06-07"
 title = "PhD positions"
 
 # Project summary to display on homepage.
-summary = "Call for PhD positions starting in October 2020 now open!"
+summary = "Call for PhD positions are closed."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -27,6 +27,6 @@ image = ""
 caption = ""
 +++
 
-PhD calls for the XXXVI cycle (academic year 2020-2021) are now open until June 16th, 2020. For more information about the PhD programme in Physics, please visit the [Department website](https://www.dfa.unipd.it/index.php?id=phd-physics). For more information about the call and on the application, please visit the [University website](https://www.unipd.it/en/phd-programmes-calls-and-admissions).
+PhD calls are now closed. The call for the PhD programme in Physics will open in spring 2021.
 
 If you have any question, do no hesitate to contact us!
