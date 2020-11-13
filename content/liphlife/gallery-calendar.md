@@ -13,7 +13,7 @@ subtitle = ""
 
 [[gallery_item]]
 album = "LIPh_life"
-image = "liph_life/folgaria2020.jpg"
+image = "liph_life/folgaria2020.jpeg"
 caption = "Hiking in the mountains near Folgaria (2020-01-17)"
 
 [[gallery_item]]
