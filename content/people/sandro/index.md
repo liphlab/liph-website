@@ -14,7 +14,7 @@ summary = "Associate professor"
 tags = ["people", "SPAED", "ReACT"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://www1.maths.leeds.ac.uk/~fbssaz/contacts.html"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
@@ -25,3 +25,9 @@ image = ""
 caption = ""
 
 +++
+
+My research interests focus on the mathematical modelling of biological systems. In general, I have a deep interest in providing a quantitative explanation of general properties and patterns which emerge from the observation of biological systems.
+
+[Current website](https://sandroaza.github.io/sandro.azaele.github.io//)
+
+[Old website](http://www1.maths.leeds.ac.uk/~fbssaz/contacts.html)

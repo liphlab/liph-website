@@ -14,7 +14,7 @@ summary = "PhD student"
 tags = ["people", "SPAED"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "prajwalp.github.io"
+external_link = "https://prajwalp.github.io/"
 
 # Does the project detail page use math formatting?
 math = false
