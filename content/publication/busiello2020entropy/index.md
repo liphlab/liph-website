@@ -1,5 +1,5 @@
 +++
-title = "Entropy production in systems with unidirectional transitions"
+title: "Entropy production in systems with unidirectional transitions"
 date = "2020-04-07"
 
 authors = ["Daniel M. Busiello", "Deepak Gupta", "Amos Maritan"]
