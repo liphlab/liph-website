@@ -1,5 +1,5 @@
 +++
-title: "Entropy production in systems with unidirectional transitions"
+title = "Entropy production in systems with unidirectional transitions"
 date = "2020-04-07"
 
 authors = ["Daniel M. Busiello", "Deepak Gupta", "Amos Maritan"]
@@ -8,36 +8,12 @@ publication_types = ["2"]
 
 publication = "Physical Review Research"
 publication_short = ""
-
-abstract = " "
-image_preview = ""
-
 featured = false
 
 projects = ["miscellaneous"]
 
 url_custom = [{name = "Website", url = "https://doi.org/10.1103/PhysRevResearch.2.023011"}]
-# Link to the paper's pdf
-url_pdf = ""
-# Link to the paper's data
-url_data = ""
-# Link to the paper's preprint
-url_preprint = ""
-# Link to the paper's code
-url_code = ""
 
-
-# Does the content use math formatting?
-math = false
-
-# Does the content use source code highlighting?
-highlight = false
-
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = ""
-caption = ""
 doi = "10.1103/PhysRevResearch.2.023011"
 
 +++
