@@ -8,6 +8,10 @@ publication_types = ["2"]
 
 publication = "Physical Review Research"
 publication_short = ""
+
+abstract = " "
+image_preview = ""
+
 featured = false
 
 projects = ["miscellaneous"]
