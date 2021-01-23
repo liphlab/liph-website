@@ -110,3 +110,6 @@ Click on any image to enlarge it and open the gallery:
 {{< gallery album="LIPh_life" >}}
 
 <br>
+
+Calendar with meetings and other activities:
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FRome&amp;src=OWl0OGEwMWsxY2w2cWlkcGg1M2hpY2xpMW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;showTitle=0&amp;showNav=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;mode=WEEK&amp;showDate=0&amp;hl=en_GB&amp;title" style="border:solid 1px #777" width="1000" height="500" frameborder="0" scrolling="no"></iframe>
