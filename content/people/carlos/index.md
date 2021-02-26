@@ -7,11 +7,11 @@ date = "2018-11-01"
 title = "Carlos A. Plata"
 
 # Project summary to display on homepage.
-summary = "Postdoctoral researcher"
+summary = "Former Postdoctoral researcher"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
-tags = ["people", "ReACT"]
+tags = ["past-members"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://caplata.github.io/"
