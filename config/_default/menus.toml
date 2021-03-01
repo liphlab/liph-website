@@ -23,7 +23,7 @@
   parent = "publications"
   name = "Selected publications"
   url = "#publications_featured"
-  weight = 7
+  weight = 5
 
 [[main]]
   parent = "publications"
