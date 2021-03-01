@@ -64,12 +64,6 @@
   weight = 12
 
 [[main]]
-    parent = "events"
-    name = "Winter workshop 2020"
-    url = "/workshops/winter-workshop-2020"
-    weight = 13
-
-[[main]]
   parent = "events"
   name = "SMEEB 2021"
   url = "https://liphlab.github.io/SMEEB2021/"
