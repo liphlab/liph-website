@@ -32,70 +32,70 @@
   weight = 6
 
 [[main]]
-  name = "Collaborators"
-  identifier = "collaborators"
-  weight = 7
-
-[[main]]
-  parent = "collaborators"
-  name = "Collaboration network"
-  url = "#network"
-  weight = 8
-
-[[main]]
-  parent = "collaborators"
-  name = "Collaborators"
-  url = "#collaborators"
-  weight = 9
-
-[[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 10
+  weight = 7
 
 [[main]]
   name = "Join the lab"
   url = "#join"
-  weight = 11
+  weight = 8
 
 [[main]]
   name = "Events"
   identifier = "events"
-  weight = 12
+  weight = 9
 
 [[main]]
   parent = "events"
   name = "SMEEB 2021"
   url = "https://liphlab.github.io/SMEEB2021/"
-  weight = 14
+  weight = 10
 
 [[main]]
   parent = "events"
   name = "Winter Workshop 2020"
   url = "/workshops/winter-workshop-2020"
-  weight = 16
+  weight = 11
 
 [[main]]
   parent = "events"
   name = "ConTaMiNEURO Summer School"
   url = "https://liphlab.github.io/ContamiNeuro/"
-  weight = 15
+  weight = 12
 
 [[main]]
   parent = "events"
   name = "Winter Workshop 2018"
   url = "/workshops/winter-workshop-2018"
+  weight = 13
+
+[[main]]
+  name = "Collaborators"
+  identifier = "collaborators"
+  weight = 14
+
+[[main]]
+  parent = "collaborators"
+  name = "Collaboration network"
+  url = "#network"
+  weight = 15
+
+[[main]]
+  parent = "collaborators"
+  name = "Collaborators"
+  url = "#collaborators"
   weight = 16
 
 [[main]]
   name = "LIPh life"
   url = "/liphlife/gallery-calendar"
-  weight = 20
+  weight = 17
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 21
+  weight = 18
 
 # Link to a PDF of your resume/CV from the
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
