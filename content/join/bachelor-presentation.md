@@ -33,6 +33,6 @@ A brief list of possible references:  <br><br>
 [*Deep learning*. Yann LeCun, Yoshua Bengio & Geoffrey Hinton. Nature, 2015](https://www.nature.com/articles/nature14539)  <br><br>
 [*Neural networks and physical systems with emergent collective computational abilities*. JJ Hopfield. PNAS, 1982](https://doi.org/10.1073/pnas.79.8.2554)  <br><br>
 [*Dynamic models of large-scale brain activity*. Michael Breakspear. Nature Neuroscience, 2017](https://www.nature.com/articles/nn.4497)  <br><br>
-cap.1 da Murray, J. D. Mathematical biology: I. An introduction. Springer-Verlag, 2007.  <br><br>
-cap.2 da Murray, J. D. Mathematical biology II: spatial models and biomedical applications. Springer-Verlag, 2007.  <br><br>
+Chapter 1, Murray, J. D. *Mathematical biology: I. An introduction*. Springer-Verlag, 2007.  <br><br>
+Chapter 2, Murray, J. D. *Mathematical biology II: spatial models and biomedical applications*. Springer-Verlag, 2007.  <br><br>
 [*Reaction-Diffusion Model as a Framework for Understanding Biological Pattern Formation*. Shigeru Kondo1, Takashi Miura. Science, 2010](https://science.sciencemag.org/content/329/5999/1616)
