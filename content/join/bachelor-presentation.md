@@ -35,4 +35,4 @@ A brief list of possible references:  <br><br>
 [*Dynamic models of large-scale brain activity*. Michael Breakspear. Nature Neuroscience, 2017](https://www.nature.com/articles/nn.4497)  <br><br>
 Chapter 1, Murray, J. D. *Mathematical biology: I. An introduction*. Springer-Verlag, 2007.  <br><br>
 Chapter 2, Murray, J. D. *Mathematical biology II: spatial models and biomedical applications*. Springer-Verlag, 2007.  <br><br>
-[*Reaction-Diffusion Model as a Framework for Understanding Biological Pattern Formation*. Shigeru Kondo1, Takashi Miura. Science, 2010](https://science.sciencemag.org/content/329/5999/1616)
+[*Reaction-Diffusion Model as a Framework for Understanding Biological Pattern Formation*. Shigeru Kondo, Takashi Miura. Science, 2010](https://science.sciencemag.org/content/329/5999/1616)
