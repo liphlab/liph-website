@@ -93,14 +93,16 @@
   weight = 17
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 18
+    name = "Videos by the lab"
+    url = "#videos"
+    weight = 18
 
 [[main]]
-  name = "Videos by the lab"
-  url = "#videos"
+  name = "Contact"
+  url = "#contact"
   weight = 19
+
+
 
 # Link to a PDF of your resume/CV from the
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
