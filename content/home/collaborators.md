@@ -7,7 +7,7 @@ title = "Collaborators"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 9
 
 # Content.
 # Display content from the following folder.

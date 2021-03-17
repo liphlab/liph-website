@@ -10,7 +10,7 @@ title = "Join the lab"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 9
+weight = 7
 
 # Content.
 # Display content from the following folder.
