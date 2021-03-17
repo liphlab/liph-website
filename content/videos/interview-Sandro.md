@@ -2,11 +2,11 @@
 # Date this page was created.
 
 # Project title.
-title = "Presentazione tesi triennali"
-date = "2020-12-09"
+title = "Cosa può dire la fisica sulla biodiversità?"
+date = "2021-03-17"
 
 # Project summary to display on homepage.
-summary = "Presentation of the Bachelor's thesis proposals (in italian)"
+summary = "The Italian Society of Statistical Physics interviews Sandro Azaele on the relation between Physics and Biodiversity (in italian)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
