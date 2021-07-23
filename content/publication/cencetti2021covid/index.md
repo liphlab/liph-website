@@ -1,6 +1,6 @@
 +++
 title = "Digital proximity tracing on empirical contact networks for pandemic control"
-date = "2021-3-12"
+date = "2021-03-12"
 
 authors = ["Giulia Cencetti", "Gabriele Santin", "Antonio Longa", "Emanuele Pigani", "Alain Barrat", "Ciro Cattuto", "Sune Lehmann", "Marcel Salathe", "Bruno Lepri"]
 
