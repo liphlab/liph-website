@@ -1,13 +1,13 @@
 +++
 # Date this page was created.
 # We use this to control sort order, most recent dates appear first
-date = "2018-08-13"
+date = "2018-08-14"
 
 # Project title.
 title = "Emanuele Pigani"
 
 # Project summary to display on homepage.
-summary = "Scolarship holder"
+summary = "PhD student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
