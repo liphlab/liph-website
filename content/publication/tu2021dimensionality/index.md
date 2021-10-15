@@ -2,7 +2,7 @@
 title = "Dimensionality reduction of complex dynamical systems."
 date = "2021-01-22"
 
-authors = ["Tu", "Chengyi", "Paolo D'Odorico", "and Samir Suweis"]
+authors = ["Chengyi Tu", "Paolo D'Odorico", "Samir Suweis"]
 
 publication_types = ["2"]
 

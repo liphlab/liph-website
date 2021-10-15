@@ -2,7 +2,7 @@
 title = "Neutral theory for competing attention in social networks"
 date = "2021-01-22"
 
-authors = ["Carlos A. Plata", "Emanuele Pigani", "Sandro Azaele", "Violeta Calleja-Solanas", "María J. Palazzi", "Albert Solé-Ribalta", "Javier Borge-Holthoefer", "Sandro Meloni", "and Samir Suweis"]
+authors = ["Carlos A. Plata", "Emanuele Pigani", "Sandro Azaele", "Violeta Calleja-Solanas", "María J. Palazzi", "Albert Solé-Ribalta", "Javier Borge-Holthoefer", "Sandro Meloni", "Samir Suweis"]
 
 publication_types = ["2"]
 

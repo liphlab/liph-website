@@ -47,28 +47,34 @@
   weight = 9
 
 [[main]]
+    parent = "events"
+    name = "REACT 2021"
+    url = "https://liphlab.github.io/REACT2021/"
+    weight = 10
+
+[[main]]
   parent = "events"
   name = "SMEEB 2021"
   url = "https://liphlab.github.io/SMEEB2021/"
-  weight = 10
+  weight = 11
 
 [[main]]
   parent = "events"
   name = "Winter Workshop 2020"
   url = "/workshops/winter-workshop-2020"
-  weight = 11
+  weight = 12
 
 [[main]]
   parent = "events"
   name = "ConTaMiNEURO Summer School"
   url = "https://liphlab.github.io/ContamiNeuro/"
-  weight = 12
+  weight = 13
 
 [[main]]
   parent = "events"
   name = "Winter Workshop 2018"
   url = "/workshops/winter-workshop-2018"
-  weight = 13
+  weight = 14
 
 #[[main]]
 #  name = "Collaborators"

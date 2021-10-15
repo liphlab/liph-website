@@ -2,7 +2,7 @@
 title = "The Widened Pipe Model of plant hydraulic evolution"
 date = "2021-05-17"
 
-authors = ["Loren Koçillari", " Mark E. Olson", "Samir Suweis,...,Amos Maritan"]
+authors = ["Loren Koçillari", "Mark E. Olson", "Samir Suweis", "Rodrigo P. Rocha", "Alberto Lovison", "Franco Cardin", "Todd E. Dawson", "Alberto Echeverría", "Alex Fajardo", "Silvia Lechthaler", "Cecilia Martínez-Pérez", "Carmen Regina Marcati", "Kuo-Fang Chung", "Julieta A. Rosell", "Alí Segovia-Rivas", "Cameron B. Williams", "Emilio Petrone-Mendoza", "Andrea Rinaldo", "Tommaso Anfodillo", "Jayanth R. Banavar", "Amos Maritan"]
 
 publication_types = ["2"]
 

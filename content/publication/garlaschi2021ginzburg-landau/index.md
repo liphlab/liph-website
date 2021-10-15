@@ -2,7 +2,7 @@
 title = "Ginzburg-Landau amplitude equation for nonlinear nonlocal models"
 date = "2021-02-21"
 
-authors = ["Stefano Garlaschi", "Deepak Gupta", " Amos Maritan", "Sandro Azaele"]
+authors = ["Stefano Garlaschi", "Deepak Gupta", "Amos Maritan", "Sandro Azaele"]
 
 publication_types = ["2"]
 

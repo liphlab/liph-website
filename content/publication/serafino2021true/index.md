@@ -2,7 +2,7 @@
 title = "True scale-free networks hidden by finite size effects."
 date = "2021-01-12"
 
-authors = ["Matteo Serafino", "Giulio Cimini", "Amos Maritan", "Andrea Rinaldo", "Samir Suweis", " Jayanth R. Banavar", "and Guido Caldarelli"]
+authors = ["Matteo Serafino", "Giulio Cimini", "Amos Maritan", "Andrea Rinaldo", "Samir Suweis", "Jayanth R. Banavar", "Guido Caldarelli"]
 
 publication_types = ["2"]
 

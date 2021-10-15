@@ -4,7 +4,7 @@ title = "Entropy production for coarse-grained dynamics"
 date = "2018-10-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Maria Busiello", "Jorge Hidalgo", "Amos Maritan"]
+authors = ["Daniel M. Busiello", "Jorge Hidalgo", "Amos Maritan"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = ["Daniel Maria Busiello", "Jorge Hidalgo", "Amos Maritan"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv"
+publication = "New Journal of Physics"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ projects = ["miscellaneous"]
 
 # Links (optional). For multiple links, use the form `[{...}, {...}, {...}]`.
 # Link to the paper's webpage
-url_custom = [{name = "Website", url = "https://arxiv.org/abs/1810.01833"}]
+url_custom = [{name = "Website", url = "https://iopscience.iop.org/article/10.1088/1367-2630/ab29c0"}]
 # Link to the paper's pdf
 url_pdf = ""
 # Link to the paper's data
@@ -45,6 +45,7 @@ url_data = ""
 url_preprint = ""
 # Link to the paper's code
 url_code = ""
+doi = "10.1088/1367-2630/ab29c0"
 
 
 # Does the content use math formatting?
