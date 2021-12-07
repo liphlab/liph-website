@@ -4,7 +4,7 @@
 date = "2017-01-01"
 
 # Project title.
-title = "Daniel Maria Busiello"
+title = "Daniel M. Busiello"
 
 # Project summary to display on homepage.
 summary = "Former PhD student (2014-2017)"

@@ -4,7 +4,7 @@ title = "Similarities and differences between non-equilibrium steady states and 
 date = "2018-09-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Maria Busiello", "Christopher Jarzynski", "O. Raz"]
+authors = ["Daniel M. Busiello", "Christopher Jarzynski", "O. Raz"]
 
 # Publication type.
 # Legend:

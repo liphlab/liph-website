@@ -4,7 +4,7 @@ title = "Explorability and the origin of network sparsity in living systems"
 date = "2017-09-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Maria Busiello", "Samir Suweis", "Jorge Hidalgo", "Amos Maritan"]
+authors = ["Daniel M. Busiello", "Samir Suweis", "Jorge Hidalgo", "Amos Maritan"]
 
 # Publication type.
 # Legend:

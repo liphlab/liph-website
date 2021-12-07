@@ -4,7 +4,7 @@ title = "Entropy production in systems with random transition rates close to equ
 date = "2017-12-06"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Maria Busiello", "Jorge Hidalgo", "Amos Maritan"]
+authors = ["Daniel M. Busiello", "Jorge Hidalgo", "Amos Maritan"]
 
 # Publication type.
 # Legend:
