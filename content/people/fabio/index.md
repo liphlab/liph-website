@@ -25,8 +25,7 @@ image = ""
 caption = ""
 
 +++
-I am Fabio Menegazzo, a Ph.D. student at the LIPh lab at the University of Padova, under the
-supervision of prof. Suweis.
+I am Fabio Menegazzo, a Ph.D. student at the LIPh lab at the University of Padova, under the supervision of prof. Suweis.
 
 I obtained my Bachelor’s degree at the University of Trento and my Master’s degree at the University of Padova. During my Master’s studies, I was exposed to the physics of complex systems, and I decided to pursue this field of study in the following part of my career. For my Master’s thesis, which I carried out under the supervision of prof. Azaele and prof. Maritan, I studied a consumer-resource model of a microbial community equipped with some simple features, with the aim of finding a small set of simple mechanisms enabling coexistence of many species competing for a single shared resource; in other words, our aim was to find a solution to a long-lasting problem in ecology: the “Paradox of the plankton”.
 
