@@ -6,7 +6,7 @@ title = "Modelling mouse response to dynamics environments via recurrent neural 
 date = "2021-07-29"
 
 # Project summary to display on homepage.
-summary = "Master's thesis proposal"
+summary = "Master's thesis proposal with prof. Luca Mazzucato"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""

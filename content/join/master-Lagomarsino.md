@@ -6,7 +6,7 @@ title = "Quantifying metabolic scaling in Planaria"
 date = "2022-02-28"
 
 # Project summary to display on homepage.
-summary = "Master's thesis proposal"
+summary = "Master's thesis proposal with prof. Marco Cosentino Lagomarsino"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
