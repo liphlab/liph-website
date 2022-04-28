@@ -6,7 +6,7 @@ date = "2018-06-07"
 title = "PhD positions"
 
 # Project summary to display on homepage.
-summary = "Call for PhD positions are closed."
+summary = "Call for PhD positions are open!"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -27,6 +27,6 @@ image = ""
 caption = ""
 +++
 
-PhD calls are now open! You can find all the details [in the call for the PhD program in Physics at the Univeristy of Padova](https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/){:target="_blank"}. The deadline is the 13th of May at 1pm (CEST).
+PhD calls are now open! You can find all the details [in the call for the PhD program in Physics at the Univeristy of Padova](https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/){:target="_blank"}. The deadline is the 13th of May 2022 at 1pm (CEST).
 
 If you have any question, do no hesitate to contact us!
