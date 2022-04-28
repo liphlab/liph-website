@@ -27,6 +27,6 @@ image = ""
 caption = ""
 +++
 
-PhD calls are now closed. The call for the PhD programme in Physics will open in spring 2021.
+PhD calls are now open! You can find all the details [in the call for the PhD program in Physics at the Univeristy of Padova](https://www.dfa.unipd.it/didattica/dottorati-di-ricerca/phd-physics/){:target="_blank"}. The deadline is the 13th of May at 1pm (CEST).
 
 If you have any question, do no hesitate to contact us!
