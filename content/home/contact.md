@@ -18,4 +18,4 @@ autolink = true
 #   2: formspree.io
 email_form = 0
 +++
-You can contact our group via [email](mailto:liph.unipd@gmail.com), or you can write individually to one of the Professors (see [People](#people)).
+You can contact our group via [email](mailto:liph.unipd@gmail.com), or you can write individually to one of the PIs (see [People](#people)).
