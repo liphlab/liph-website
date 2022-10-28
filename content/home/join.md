@@ -50,14 +50,6 @@ filter_default = 0
 #  tag = "*"
 
 [[filter]]
-  name = "Bachelor's thesis"
-  tag = "bachelor-thesis-proposal"
-
-[[filter]]
-  name = "Master's thesis"
-  tag = "master-thesis-proposal"
-
-[[filter]]
   name = "PhD"
   tag = "phd-positions"
 
@@ -66,8 +58,16 @@ filter_default = 0
   tag = "postdoc-positions"
 
 [[filter]]
-  name = "Faculty positions"
-  tag = "faculty-positions"
+  name = "Bachelor's thesis"
+  tag = "bachelor-thesis-proposal"
+
+[[filter]]
+  name = "Master's thesis"
+  tag = "master-thesis-proposal"
+
+#[[filter]]
+#  name = "Faculty positions"
+#  tag = "faculty-positions"
 
 +++
 
