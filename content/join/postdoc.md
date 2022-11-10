@@ -6,7 +6,7 @@ date = "2018-06-07"
 title = "Post-doc positions"
 
 # Project summary to display on homepage.
-summary = "We currently do not have open postdoc positions"
+summary = "Post-doc position open (RtdA)!"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -27,7 +27,8 @@ image = ""
 caption = ""
 +++
 
-We currently do not have open postdoc positions.
+The Department of Physics & Astronomy at the University of Padua (Italy) invites applications from highly motivated and outstanding candidates for a post-doctoral position (RtdA) in the LIPH lab (Statistical Mechanics of Complex Systems). Our Lab addresses a wide range of fundamental problems pertaining to biological complexity, including critical phenomena in living interacting systems, quantitative modelling of biodiversity across scales of ecological complexity and statistical physics approaches to neuroscience. Diverse efforts are mainly geared towards the search for common physical principles underlying biological phenomena. The successful candidate will develop models for understanding universal empirical patterns in complex ecological communities. They will characterise specific features of interacting living systems by using tools borrowed from non-equilibrium statistical physics, including the physics of disordered systems. Further details on the post upon request (sandro.azaele [at] unipd.it  or amos.maritan [at] unipd.it). After 18/11 details on the application process will be available [at this link](http://www.dfa.unipd.it/servizi/settore-direzione-ricerca-e-terza-missione/concorsi-e-selezioni/ricercatore/selezioni-aperte-o-in-svolgimento/){:target="_blank"}<!--_-->.
+
 
 
 
