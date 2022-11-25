@@ -71,4 +71,4 @@ filter_default = 0
 
 +++
 
-We propose theses in the field of Statistical Physics of Complex Systems, applied (but not limited) to ecology, biology, neuroscience and machine learning. Our thesis students will be invited to join the lab activities such our journal clubs, research discussions, etc…
+We propose bachelor and master theses in the field of Statistical Physics of Complex Systems, applied (but not limited) to ecology, biology, neuroscience and machine learning. Our thesis students will be invited to join the lab activities such our journal clubs, research discussions, etc. We currently have PhD and post-doc positions open!
