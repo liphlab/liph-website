@@ -6,7 +6,7 @@ date = "2018-06-07"
 title = "Post-doc positions"
 
 # Project summary to display on homepage.
-summary = "Post-doc position open (RtdA)!"
+summary = "Multiple post-doc position open (RtdA and post-doc)!"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -26,10 +26,15 @@ math = false
 image = ""
 caption = ""
 +++
+We are looking for two post-docs!
 
-The Department of Physics & Astronomy at the University of Padua (Italy) invites applications from highly motivated and outstanding candidates for a post-doctoral position (RtdA) in the LIPH lab (Statistical Mechanics of Complex Systems). Our Lab addresses a wide range of fundamental problems pertaining to biological complexity, including critical phenomena in living interacting systems, quantitative modelling of biodiversity across scales of ecological complexity and statistical physics approaches to neuroscience. Diverse efforts are mainly geared towards the search for common physical principles underlying biological phenomena. The successful candidate will develop models for understanding universal empirical patterns in complex ecological communities. They will characterise specific features of interacting living systems by using tools borrowed from non-equilibrium statistical physics, including the physics of disordered systems. Further details on the post upon request (sandro.azaele [at] unipd.it  or amos.maritan [at] unipd.it). After 18/11 details on the application process will be available [at this link](http://www.dfa.unipd.it/servizi/settore-direzione-ricerca-e-terza-missione/concorsi-e-selezioni/ricercatore/selezioni-aperte-o-in-svolgimento/){:target="_blank"}<!--_-->.
+1) The Department of Physics & Astronomy at the University of Padua (Italy) invites applications from highly motivated and outstanding candidates for a post-doctoral position (RtdA) in the LIPH lab (Statistical Mechanics of Complex Systems). Our Lab addresses a wide range of fundamental problems pertaining to biological complexity, including critical phenomena in living interacting systems, quantitative modelling of biodiversity across scales of ecological complexity and statistical physics approaches to neuroscience. Diverse efforts are mainly geared towards the search for common physical principles underlying biological phenomena. The successful candidate will develop models for understanding universal empirical patterns in complex ecological communities. They will characterise specific features of interacting living systems by using tools borrowed from non-equilibrium statistical physics, including the physics of disordered systems. Further details on the post upon request (sandro.azaele [at] unipd.it  or amos.maritan [at] unipd.it). After the 18th of November details on the application process will be available [at this link](http://www.dfa.unipd.it/servizi/settore-direzione-ricerca-e-terza-missione/concorsi-e-selezioni/ricercatore/selezioni-aperte-o-in-svolgimento/).
 
+2) The groups of Judit Gervain and Samir Suweis are recruiting a talented young postdoctoral researcher to participate in a project that is at the intersection of mathematics, physics, and neuroscience in the general area of brain criticality. In particular, the project will investigate how efficient learning during critical or sensitive periods early in life may be modelled. It will combine the theory of criticality in statistical physics with developmental cognitive neuroscience to offer a new model of perceptual attunement to the native language during the first year of life. The ideal candidate will have a quantitative background (e.g. PhD in mathematics, physics, computer science) along with (preferable but not mandatory) experience in applying this background to neuroscience. The post doc will join the Department of Developmental and Social Psychology, The Department of Physics and the Padova Neuroscience Center and live in highly active, stimulating interdisciplinary environment at the University of Padova, one of the most prestigious universities in Italy.
 
+The position is open immediately with primary location in Padova, a nice small university town near Venice. Ideally, the starting date is between January-April 2023, unless otherwise agreed. The position is funded for two years.
+
+Interested candidates should contact Prof. Samir Suweis (samir.suweis [at] unipd.it) and Prof Judit Gervain (judit.gervain [at] unipd.it). We strive for a diverse and inclusive environment, and encourage applications from members of any identity.
 
 
 
