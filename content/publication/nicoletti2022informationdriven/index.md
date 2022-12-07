@@ -1,6 +1,5 @@
 +++
-title = "Information-driven transitions in projections of underdamped dynamics
-"
+title = "Information-driven transitions in projections of underdamped dynamics"
 date = "2022-07-18"
 
 authors = ["Giorgio Nicoletti", "Amos Maritan", "Daniel M. Busiello"]

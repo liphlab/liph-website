@@ -1,6 +1,5 @@
 +++
-title = "Mutual information in changing environments: Nonlinear interactions, out-of-equilibrium systems, and continuously varying diffusivities
-"
+title = "Mutual information in changing environments: Nonlinear interactions, out-of-equilibrium systems, and continuously varying diffusivities"
 date = "2022-07-29"
 
 authors = ["Giorgio Nicoletti", "Daniel M. Busiello"]
