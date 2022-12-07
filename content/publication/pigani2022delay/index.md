@@ -1,6 +1,6 @@
 +++
 title = "Delay effects on the stability of large ecosystems"
-date = "2022-11-8"
+date = "2022-11-08"
 
 authors = ["Emanuele Pigani", "Damiano Sgarbossa", "Samir Suweis", "Amos Maritan", "Sandro Azaele"]
 
