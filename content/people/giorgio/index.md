@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 # We use this to control sort order, most recent dates appear first
-date = "2018-10-14"
+date = "2017-12-25"
 
 # Project title.
 title = "Giorgio Nicoletti"
