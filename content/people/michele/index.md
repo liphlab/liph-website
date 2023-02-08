@@ -1,7 +1,7 @@
 +++
 # Date this page was created.
 # We use this to control sort order, most recent dates appear first
-date = "2018-12-01"
+date = "2018-10-14"
 
 # Project title.
 title = "Michele Allegra"
@@ -11,7 +11,7 @@ summary = "Researcher"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
-tags = ["people", "miscellaneous", "SPAN"]
+tags = ["people", "SPAN"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://micheleallegra.github.io/"

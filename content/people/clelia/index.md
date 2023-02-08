@@ -26,8 +26,8 @@ caption = ""
 
 +++
 
-I'm Clelia Corridori, a Physics of Data student at the University of Padova.
+My name is Clelia Corridori. I am pursuing a PhD in Genetics, Genomics, and Bioinformatics at the Department of Biology at the University of Padua. I am currently part of the LIPh Lab.
 
-I am interested in Complex Systems, Cognitive Modelling, Neuroscience, Machine Learning and in the interdisciplinary approach to tackle these subjects.
+I got my bachelor's degree at the University of Insubria, where my thesis focused on methods and techniques for verifying the unpredictability of states in bit sequences. I then moved to Padua, where I obtained my Master's degree in Physics of Data. I focused mainly on complex systems and machine learning, and I did my thesis in computational neuroscience. I studied neuronal networks using both a model of biological neurons and the inverse Ising problem.
 
-My bachelor's thesis was focused on methods and techniques for verifying the unpredictability of states in a sequence of bits. Afterward, my studies were mainly in the areas of complex systems and machine learning. Now my Master's thesis develops in the field of computational Neuroscience, under the supervision of prof. Samir Suweis. I'm studying neuronal networks both using a biological neurons model and the inverse Ising problem.
+I am currently working on my PhD project under the supervision of Prof. Graziano Martello, with co-supervision from Prof. Sandro Azaele and Prof. Samir Suweis. My research focuses on the biological program governing pluripotency in humans. The goal is to deeply understand the differentiation process in human pluripotent stem cells through an interdisciplinary approach that merges computational modelling strategies, experimental data, and theoretical models.
