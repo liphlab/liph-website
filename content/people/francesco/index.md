@@ -1,13 +1,13 @@
 +++
 # Date this page was created.
 # We use this to control sort order, most recent dates appear first
-date = "1999-12-25"
+date = "2001-11-25"
 
 # Project title.
-title = "Andrea Veronese"
+title = "Francesco Ferraro"
 
 # Project summary to display on homepage.
-summary = "Master student"
+summary = "PhD student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
@@ -26,9 +26,5 @@ caption = ""
 
 +++
 
-My name is Andrea Veronese. I am a Master's degree student at the University of Padua.
-
-During my Master's degree studies I got interested and focused mainly on Complex Systems problems and the application of Statistical Mechanics in Biological Physics. More broadly, I am interested and fascinated by the emergence of coherent and collective behavoiur in biological systems.
-
-I am currently working on my Master's thesis under the supervision of Prof. Amos Maritan and Prof. Samir Suweis. My research focuses on the emergence of critical behaviour in living systems. The goal is to deeply understand how and why criticality emerges in interacting living systems and how the strategy with which agents of the system interact with each other can influence this critical behaviour through an approach that merges computational modelling and theoretical models.
+I'm Francesco and I am pursuing a PhD under the supervision of Amos Maritan and Sandro Azaele investigating the properties of Lotka-Volterra communities.
 
