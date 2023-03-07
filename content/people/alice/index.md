@@ -29,8 +29,6 @@ caption = ""
 My name is Alice Doimo and I am a Ph.D. student at the Laboratory of Interdisciplinary Physics of Università degli Studi di Padova, where I obtained both my B.Sc. and M.Sc. in Physics.
 
 I am currently working at the developments of my Master's thesis project on the topic of pattern formation in ecosystems with resource competition, under the supervision of Professor Amos Maritan and Professor Sandro Azaele.
-
-This work fits in a research line that aims to solve a well known ecological paradox, which stems from the contrast between the extremely rich biodiversity displayed by real-life ecosystems, and the limited number of species that can coexist according to a theoretical result known as "Competitive Exclusion Principle".
 Specifically, the purpose of my project is to clarify the role of spatial effects on species coexistence.
 
 I am mainly interested in the statistical mechanics approach to complex systems, particularly in the context of living systems and theoretical ecology. 
