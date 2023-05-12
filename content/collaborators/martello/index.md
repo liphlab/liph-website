@@ -1,22 +1,20 @@
 +++
 # Date this page was created.
-date = "2018-06-07"
+# We use this to control sort order, most recent dates appear first
+date = "2018-02-01"
 
 # Project title.
-title = "Post-doc positions"
+title = "Graziano Martello"
 
 # Project summary to display on homepage.
-summary = "There are currently no open post-doc positions."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
+summary = "University of Padua"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["postdoc-positions"]
+# Example: `tags = ["machine-learning", "deep-learning"]``
+tags = []
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://martellolab.org/home.php"
 
 # Does the project detail page use math formatting?
 math = false
@@ -25,5 +23,5 @@ math = false
 [header]
 image = ""
 caption = ""
+
 +++
-We do not currently have any open post-doc position.
