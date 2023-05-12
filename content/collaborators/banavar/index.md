@@ -7,14 +7,14 @@ date = "2018-06-15"
 title = "Jayanth Banavar"
 
 # Project summary to display on homepage.
-summary = "University of Maryland"
+summary = "University of Oregon"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
 tags = []
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://umdphysics.umd.edu/people/visitors/item/30-banavar.html"
+external_link = "https://physics.uoregon.edu/profile/banavar/"
 
 # Does the project detail page use math formatting?
 math = false
