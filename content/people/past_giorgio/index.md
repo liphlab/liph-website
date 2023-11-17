@@ -7,11 +7,11 @@ date = "2017-12-24"
 title = "Giorgio Nicoletti"
 
 # Project summary to display on homepage.
-summary = "Postdoc"
+summary = "Former postdoc"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
-tags = ["people", "ReACT", "SPAN", "SPAED"]
+tags = ["past-members", "ReACT", "SPAN", "SPAED"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://giorgionicoletti.github.io"
