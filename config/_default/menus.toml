@@ -54,7 +54,7 @@
 
   [[main]]
       parent = "events"
-      name = "Spring Workshop 2023"
+      name = "Winter Workshop 2023"
       url = "https://liphlab.github.io/liphworkshop2023/"
       weight = 10
 
