@@ -46,6 +46,12 @@
   identifier = "events"
   weight = 9
 
+[[main]]
+  parent = "events"
+  name = "Kickoff Meeting 2023"
+  url = "https://liphlab.github.io/kickoff2023/"
+  weight = 9
+
   [[main]]
       parent = "events"
       name = "Spring Workshop 2023"
