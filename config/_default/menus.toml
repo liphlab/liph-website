@@ -72,8 +72,8 @@
 
 [[main]]
   parent = "events"
-  name = "SMEEB 2021"
-  url = "https://liphlab.github.io/SMEEB2021/"
+  name = "SMEEB 2024"
+  url = "https://liphlab.github.io/SMEEB2024/"
   weight = 13
 
 [[main]]
