@@ -41,27 +41,27 @@ url_code = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
+
 +++
 
-# Neuroscience
 
-* **Emergent neural activity and Brain Criticality** <br>
-***People***: Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas <br>
+# Emergent neural activity and Brain Criticality
+**People**: Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas <br>
 
-* **Effect of stroke and diseases in brain structure and dynamics** <br>
-***People***: Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara <br>
+# Effect of stroke and diseases in brain structure and dynamics
+**People**: Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara <br>
 
-* **Response theory for brain network discovery and control**<br>
-***People***: Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni <br>
+# Response theory for brain network discovery and control
+**People**: Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni <br>
 
-* **Dynamics in biological and artificial neural networks and whole brain models**<br>
-***People***: Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon <br>
+# Dynamics in biological and artificial neural networks and whole brain models
+**People**: Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon <br>
 
  <br>
 
-***Collaborators***: Judith Gervain, Pietro Avanzini, Stefano Vassanelli, Davide Momi, Marco Dal Maschio, Pietro Rotondo, Maurizio Corbetta, Marcello Massimini, Giorgio Nicoletti<br> <br>
-***Foundings***: <br>
+**Collaborators**: Judith Gervain, Pietro Avanzini, Stefano Vassanelli, Davide Momi, Marco Dal Maschio, Pietro Rotondo, Maurizio Corbetta, Marcello Massimini, Giorgio Nicoletti<br> <br>
+#Foundings: <br>
 * ERC Synergy <br>
 * PRIN 2022 <br>
 * PARD 2023 UNIPD DFA <br>
