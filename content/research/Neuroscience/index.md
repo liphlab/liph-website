@@ -47,19 +47,19 @@ url_code = ""
 
 
 # Emergent neural activity and Brain Criticality
-**People**: <br>
+#### People
 Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas <br>
 
 # Effect of stroke and diseases in brain structure and dynamics
-**People**: <br>
+#### People
 Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara <br>
 
 # Response theory for brain network discovery and control
-**People**: <br>
+#### People
 Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni <br>
 
 # Dynamics in biological and artificial neural networks and whole brain models
-**People**: <br>
+#### People
 Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon <br>
 
  <br> <br>
