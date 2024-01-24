@@ -2,15 +2,12 @@
 # Project title.
 title = "Neuroscience"
 
-# Description of the project.
-description = "Statistical Physics and Network Science are decisively contributing to describe the complex, self-organizing structure and dynamics of the human brain. We are part of the Padova Neuroscience Center and in this area we lead four projects."
-
 
 # Date this page was created.
 date = "2018-03-01"
 
 # Project summary to display on homepage.
-summary = "Neuroscience"
+summary = "Statistical Physics and Network Science are decisively contributing to describe the complex, self-organizing structure and dynamics of the human brain. We are part of the Padova Neuroscience Center and in this area we lead four projects."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
