@@ -44,7 +44,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-# Testo qui
+# Neuroscience
 
 * **Emergent neural activity and Brain Criticality** <br>
 ***People***: Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas <br>
