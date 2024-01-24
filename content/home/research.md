@@ -49,12 +49,9 @@ filter_default = 0
   tag = "neuroscience"
 
 [[filter]]
-  name = "Other"
-  tag = "other"
+  name = "System Biology"
+  tag = "biology"
 
-[[filter]]
-  name = "Open codes and data"
-  tag = "code-data"
 
 [[filter]]
   name = "Old projects"
