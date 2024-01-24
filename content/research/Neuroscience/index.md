@@ -2,7 +2,6 @@
 # Project title.
 title = "Neuroscience"
 
-
 # Date this page was created.
 date = "2018-03-01"
 
@@ -38,11 +37,11 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = "We are part of the Padova Neuroscience Center and in this area we lead four projects."
+  caption = "Statistical Physics and Network Science are decisively contributing to describe the complex, self-organizing structure and dynamics of the human brain. We are part of the Padova Neuroscience Center and in this area we lead four projects."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point = "Smart"
 
 +++
 
@@ -76,10 +75,10 @@ Pietro Avanzini, Maurizio Corbetta, Marco Dal Maschio, Judith Gervain, Marcello 
 
 <br><br>
 
-# Foundings
-- ERC Synergy <br>
-- PRIN 2022 <br>
-- PARD 2023 UNIPD DFA <br>
-- FARE (MUR) <br>
-- PON <br>
-- Dottorato Nazionale  -  Theoretical and Applied Neuroscience <br>
+> # Foundings
+> - ERC Synergy <br>
+> - PRIN 2022 <br>
+> - PARD 2023 UNIPD DFA <br>
+> - FARE (MUR) <br>
+> - PON <br>
+> - Dottorato Nazionale  -  Theoretical and Applied Neuroscience <br>
