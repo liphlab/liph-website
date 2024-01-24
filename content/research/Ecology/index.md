@@ -3,7 +3,7 @@
 title = "Ecology"
 
 # Date this page was created.
-date = "2017-03-01"
+date = "2018-04-01"
 
 # Project summary to display on homepage.
 summary = "Ecology"
@@ -41,28 +41,30 @@ url_code = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = "Center"
 +++
 
-# Ecology
 
-* **National Biodiversity Future Center (NBFC, CN5 (Hub in Palermo), 8 Spokes)** <br>
- from 1st Sept 2022 to 31st Aug 2025<br>
-***People***: Amos Maritan, Sandro Azaele, Davide Bernardi, Alice Doimo and Francesco Ferraro <br>
-***Collaborators***: Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO), Lucio Bonato (DiBIO), Thomas Campagnaro (TESAF), Leonardo Congiu (DiBIO), Giuseppe Fusco (DiBIO), Clelia Gasparini (DiBIO), Alessandro Grapputo (DiBIO), Nicoletta La Rocca (DiBIO), Andrea Pilastro (DiBIO), Gil Rosenthal (DiBIO) and Tommaso Sitzia (TESAF)<br>
-***Foundings***: PNRR <br>
+# National Biodiversity Future Center
+### (NBFC, CN5 (Hub in Palermo), 8 Spokes)
+From 1st Sept 2022 to 31st Aug 2025<br>
+**People**: Amos Maritan, Sandro Azaele, Davide Bernardi, Alice Doimo and Francesco Ferraro <br>
+**Collaborators**: Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO), Lucio Bonato (DiBIO), Thomas Campagnaro (TESAF), Leonardo Congiu (DiBIO), Giuseppe Fusco (DiBIO), Clelia Gasparini (DiBIO), Alessandro Grapputo (DiBIO), Nicoletta La Rocca (DiBIO), Andrea Pilastro (DiBIO), Gil Rosenthal (DiBIO) and Tommaso Sitzia (TESAF)<br>
+**Foundings**: PNRR <br>
 
-* **Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities** <br>(UniPD, GSSI, UniRoma1); <br>from Oct 2023 to Sept 2025<br>
-***People***: Amos Maritan, Sandro Azaele and Christian Grilletta <br>
-***Collaborators***: Giacomo Gradenigo, Maria C. Angelini and Andrea Crisanti <br>
-***Foundings***: PRIN<br>
+# Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities
+### (UniPD, GSSI, UniRoma1)
+From Oct 2023 to Sept 2025<br>
+**People**: Amos Maritan, Sandro Azaele and Christian Grilletta <br>
+**Collaborators**: Giacomo Gradenigo, Maria C. Angelini and Andrea Crisanti <br>
+**Foundings**: PRIN<br>
 
-* **Ecological responses to perturbations**<br>
-***People***: Sandro Azaele, Samir Suweis, Davide Zanchetta <br>
-***Collaborators***: Piratech <br>
-***Foundings***: PON<br>
+# Ecological responses to perturbations
+**People**: Sandro Azaele, Samir Suweis, Davide Zanchetta <br>
+**Collaborators**: Piratech <br>
+**Foundings**: PON<br>
 
-* **Coevolutionary modelling of sustainable use of common pool resources** <br>
-***People***: Sandro Azaele, Samir Suweis, Fabio Menegazzo <br>
-***Collaborators***: Piratech <br>
-***Foundings***: PON<br>
+# Coevolutionary modelling of sustainable use of common pool resources
+**People**: Sandro Azaele, Samir Suweis, Fabio Menegazzo <br>
+**Collaborators**: Piratech <br>
+**Foundings**: PON<br>
