@@ -37,13 +37,14 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder.
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Statistical Physics and Network Science are decisively contributing to describe the complex, self-organizing structure and dynamics of the human brain. We are part of the Padova Neuroscience Center and in this area we lead four projects:"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 
 +++
+
 
 
 # Emergent neural activity and Brain Criticality
