@@ -52,7 +52,7 @@ From 1st Sept 2022 to 31st Aug 2025<br>
 Amos Maritan, Sandro Azaele, Davide Bernardi, Alice Doimo and Francesco Ferraro <br>
 #### Collaborators
 Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO), Lucio Bonato (DiBIO), Thomas Campagnaro (TESAF), Leonardo Congiu (DiBIO), Giuseppe Fusco (DiBIO), Clelia Gasparini (DiBIO), Alessandro Grapputo (DiBIO), Nicoletta La Rocca (DiBIO), Andrea Pilastro (DiBIO), Gil Rosenthal (DiBIO) and Tommaso Sitzia (TESAF)<br>
-#### Foundings**
+#### Foundings
 PNRR <br>
 
 # Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities

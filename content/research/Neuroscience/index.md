@@ -64,10 +64,10 @@ Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon <br>
 
  <br> <br>
 
-## Projects Collaborators:
+## Projects Collaborators
 Judith Gervain, Pietro Avanzini, Stefano Vassanelli, Davide Momi, Marco Dal Maschio, Pietro Rotondo, Maurizio Corbetta, Marcello Massimini, Giorgio Nicoletti<br> <br>
 
-# Foundings:
+# Foundings
 - ERC Synergy <br>
 - PRIN 2022 <br>
 - PARD 2023 UNIPD DFA <br>
