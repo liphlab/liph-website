@@ -46,25 +46,28 @@ url_code = ""
 
 
 # National Biodiversity Future Center
-### (NBFC, CN5 (Hub in Palermo), 8 Spokes)
+#### (NBFC, CN5 (Hub in Palermo), 8 Spokes)
 From 1st Sept 2022 to 31st Aug 2025<br>
-**People**: Amos Maritan, Sandro Azaele, Davide Bernardi, Alice Doimo and Francesco Ferraro <br>
-**Collaborators**: Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO), Lucio Bonato (DiBIO), Thomas Campagnaro (TESAF), Leonardo Congiu (DiBIO), Giuseppe Fusco (DiBIO), Clelia Gasparini (DiBIO), Alessandro Grapputo (DiBIO), Nicoletta La Rocca (DiBIO), Andrea Pilastro (DiBIO), Gil Rosenthal (DiBIO) and Tommaso Sitzia (TESAF)<br>
-**Foundings**: PNRR <br>
+**People**:  <br>
+Amos Maritan, Sandro Azaele, Davide Bernardi, Alice Doimo and Francesco Ferraro <br>
+**Collaborators**:  <br>
+Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO), Lucio Bonato (DiBIO), Thomas Campagnaro (TESAF), Leonardo Congiu (DiBIO), Giuseppe Fusco (DiBIO), Clelia Gasparini (DiBIO), Alessandro Grapputo (DiBIO), Nicoletta La Rocca (DiBIO), Andrea Pilastro (DiBIO), Gil Rosenthal (DiBIO) and Tommaso Sitzia (TESAF)<br>
+**Foundings**:  <br>
+PNRR <br>
 
 # Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities
 ### (UniPD, GSSI, UniRoma1)
 From Oct 2023 to Sept 2025<br>
-**People**: Amos Maritan, Sandro Azaele and Christian Grilletta <br>
-**Collaborators**: Giacomo Gradenigo, Maria C. Angelini and Andrea Crisanti <br>
-**Foundings**: PRIN<br>
+**People**:  <br>Amos Maritan, Sandro Azaele and Christian Grilletta <br>
+**Collaborators**:  <br> Giacomo Gradenigo, Maria C. Angelini and Andrea Crisanti <br>
+**Foundings**:  <br> PRIN<br>
 
 # Ecological responses to perturbations
-**People**: Sandro Azaele, Samir Suweis, Davide Zanchetta <br>
-**Collaborators**: Piratech <br>
-**Foundings**: PON<br>
+**People**:  <br> Sandro Azaele, Samir Suweis, Davide Zanchetta <br>
+**Collaborators**:  <br> Piratech <br>
+**Foundings**:  <br> PON<br>
 
 # Coevolutionary modelling of sustainable use of common pool resources
-**People**: Sandro Azaele, Samir Suweis, Fabio Menegazzo <br>
-**Collaborators**: Piratech <br>
-**Foundings**: PON<br>
+**People**:  <br> Sandro Azaele, Samir Suweis, Fabio Menegazzo <br>
+**Collaborators**:  <br> Piratech <br>
+**Foundings**:  <br> PON<br>

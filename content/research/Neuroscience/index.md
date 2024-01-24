@@ -47,24 +47,30 @@ url_code = ""
 
 
 # Emergent neural activity and Brain Criticality
-**People**: Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas <br>
+**People**: <br>
+Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas <br>
 
 # Effect of stroke and diseases in brain structure and dynamics
-**People**: Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara <br>
+**People**: <br>
+Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara <br>
 
 # Response theory for brain network discovery and control
-**People**: Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni <br>
+**People**: <br>
+Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni <br>
 
 # Dynamics in biological and artificial neural networks and whole brain models
-**People**: Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon <br>
+**People**: <br>
+Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon <br>
 
- <br>
+ <br> <br>
 
-**Collaborators**: Judith Gervain, Pietro Avanzini, Stefano Vassanelli, Davide Momi, Marco Dal Maschio, Pietro Rotondo, Maurizio Corbetta, Marcello Massimini, Giorgio Nicoletti<br> <br>
-#Foundings: <br>
-* ERC Synergy <br>
-* PRIN 2022 <br>
-* PARD 2023 UNIPD DFA <br>
-* FARE (MUR) <br>
-* PON <br>
-* Dottorato Nazionale  -  Theoretical and Applied Neuroscience <br>
+## Projects Collaborators:
+Judith Gervain, Pietro Avanzini, Stefano Vassanelli, Davide Momi, Marco Dal Maschio, Pietro Rotondo, Maurizio Corbetta, Marcello Massimini, Giorgio Nicoletti<br> <br>
+
+# Foundings:
+- ERC Synergy <br>
+- PRIN 2022 <br>
+- PARD 2023 UNIPD DFA <br>
+- FARE (MUR) <br>
+- PON <br>
+- Dottorato Nazionale  -  Theoretical and Applied Neuroscience <br>
