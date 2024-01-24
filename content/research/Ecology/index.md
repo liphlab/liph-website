@@ -10,7 +10,7 @@ summary = "Ecology"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ecology"]
+tags = ["ecology","research-project"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
