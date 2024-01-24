@@ -48,24 +48,31 @@ url_code = ""
 
 # Emergent neural activity and Brain Criticality
 #### People
-Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas <br>
+Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas 
+<br><br>
 
 # Effect of stroke and diseases in brain structure and dynamics
 #### People
-Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara <br>
+Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon 
+<br><br>
 
 # Response theory for brain network discovery and control
 #### People
-Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni <br>
+Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni 
+<br><br>
 
 # Dynamics in biological and artificial neural networks and whole brain models
 #### People
-Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon <br>
+Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara 
+<br><br>
 
- <br> <br>
+
+ <br> 
 
 ## Projects Collaborators
-Judith Gervain, Pietro Avanzini, Stefano Vassanelli, Davide Momi, Marco Dal Maschio, Pietro Rotondo, Maurizio Corbetta, Marcello Massimini, Giorgio Nicoletti<br> <br>
+Pietro Avanzini, Maurizio Corbetta, Marco Dal Maschio, Judith Gervain, Marcello Massimini, Davide Momi, Giorgio Nicoletti, Pietro Rotondo and Stefano Vassanelli
+
+<br><br>
 
 # Foundings
 - ERC Synergy <br>
