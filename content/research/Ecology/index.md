@@ -47,7 +47,7 @@ url_code = ""
 
 # National Biodiversity Future Center
 
-NBFC, CN5 (Hub in Palermo), 8 Spokes<br><br>
+NBFC, CN5 (Hub in Palermo), 8 Spokes
 
 #### People
 
@@ -70,7 +70,7 @@ PNRR
 
 # Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities
 
-(UniPD, GSSI, UniRoma1)<br><br>
+UniPD, GSSI, UniRoma1 
 
 #### People
 
