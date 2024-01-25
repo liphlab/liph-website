@@ -45,6 +45,8 @@ url_code = ""
 
 +++
 
+<br>
+
 Statistical Physics and Network Science are decisively contributing to describe the complex, self-organizing structure and dynamics of the human brain. We are part of the Padova Neuroscience Center and in this area we lead four projects.
 
 <br><br>
