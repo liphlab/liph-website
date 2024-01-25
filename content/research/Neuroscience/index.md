@@ -88,8 +88,6 @@ Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andre
 <br><br>
 
 
- <br> 
-
 ## Projects Collaborators
 
 Pietro Avanzini, Maurizio Corbetta, Marco Dal Maschio, Judith Gervain, Marcello Massimini, Davide Momi, Giorgio Nicoletti, Pietro Rotondo and Stefano Vassanelli
