@@ -55,8 +55,10 @@ Statistical Physics and Network Science are decisively contributing to describe 
 
 Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas 
 
-<br><br>
+> #### Fundings
+> <img src="logo_fare.jpg" alt="Logo FARE" style="max-height:80px;margin-left: 10px;">
 
+<br><br>
 
 
 # Effect of stroke and diseases in brain structure and dynamics
@@ -64,6 +66,9 @@ Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas
 #### People
 
 Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon 
+
+> #### Fundings
+> <img src="logo_erc.png" alt="Logo ERC" style="max-height:80px;margin-left: 10px;">
 
 <br><br>
 
@@ -73,7 +78,10 @@ Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon
 
 #### People
 
-Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni 
+Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni
+
+> #### Fundings
+> <img src="logo_PRIN.png" alt="Logo PRIN" style="max-height:80px;margin-left: 10px;">
 
 <br><br>
 
@@ -85,6 +93,10 @@ Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramo
 
 Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara 
 
+> #### Fundings
+> <img src="logo_PON.png" alt="Logo PON" style="max-height:80px;margin-left: 10px;">
+> <img src="logo_neu.png" alt="Logo NEU" style="max-height:80px;margin-left: 10px;">
+
 <br><br>
 
 
@@ -94,13 +106,7 @@ Pietro Avanzini, Maurizio Corbetta, Marco Dal Maschio, Judith Gervain, Marcello 
 
 <br><br>
 
-> # Fundings
->
-> <img src="logo_erc.png" alt="Logo ERC" style="max-height:80px;margin-right: 10px;"> ERC Synergy
-> <img src="logo_PRIN.png" alt="Logo PRIN" style="max-height:80px;margin-right: 10px;"> PRIN 2022
-> <img src="logo_dfa.png" alt="Logo DFA" style="max-height:80px;margin-right: 10px;"> PARD 2023 - UNIPD DFA
-> <img src="logo_fare.jpg" alt="Logo FARE" style="max-height:80px;margin-right: 10px;"> FARE (MUR)
-> <img src="logo_PON.png" alt="Logo PON" style="max-height:80px;margin-right: 10px;"> PON
-> <img src="logo_neu.png" alt="Logo NEU" style="max-height:80px;margin-right: 10px;"> Dottorato Nazionale  -  Theoretical and Applied Neuroscience
+> #### Other Fundings
+> <img src="logo_dfa.png" alt="Logo DFA" style="max-height:80px;margin-left: 10px;">
 
 <br><br>
