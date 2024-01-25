@@ -48,37 +48,57 @@ url_code = ""
 
 
 # Emergent neural activity and Brain Criticality
+
 #### People
+
 Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas 
+
 <br><br>
+
+
 
 # Effect of stroke and diseases in brain structure and dynamics
+
 #### People
+
 Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon 
+
 <br><br>
+
+
 
 # Response theory for brain network discovery and control
+
 #### People
+
 Michele Allegra, Samir Suweis, Sandro Azaele, Amos Maritan, Giacomo Barzon, Ramon Guevara, Jacopo Fadanni 
+
 <br><br>
 
+
+
 # Dynamics in biological and artificial neural networks and whole brain models
+
 #### People
+
 Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andrea Veronese, Ramon Guevara 
+
 <br><br>
 
 
  <br> 
 
 ## Projects Collaborators
+
 Pietro Avanzini, Maurizio Corbetta, Marco Dal Maschio, Judith Gervain, Marcello Massimini, Davide Momi, Giorgio Nicoletti, Pietro Rotondo and Stefano Vassanelli
 
 <br><br>
 
-> # Foundings
-> - ERC Synergy <br>
-> - PRIN 2022 <br>
-> - PARD 2023 UNIPD DFA <br>
-> - FARE (MUR) <br>
-> - PON <br>
-> - Dottorato Nazionale  -  Theoretical and Applied Neuroscience <br>
+> # Fundings
+>
+> - ERC Synergy
+> - PRIN 2022
+> - PARD 2023 UNIPD DFA
+> - FARE (MUR)
+> - PON
+> - Dottorato Nazionale  -  Theoretical and Applied Neuroscience

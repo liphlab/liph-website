@@ -46,43 +46,82 @@ url_code = ""
 
 
 # National Biodiversity Future Center
-(NBFC, CN5 (Hub in Palermo), 8 Spokes)<br><br>
-From 1st Sept 2022 to 31st Aug 2025
+
+NBFC, CN5 (Hub in Palermo), 8 Spokes<br><br>
+
 #### People
+
 Amos Maritan, Sandro Azaele, Davide Bernardi, Alice Doimo and Francesco Ferraro
+
 #### Collaborators
+
 Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO), Lucio Bonato (DiBIO), Thomas Campagnaro (TESAF), Leonardo Congiu (DiBIO), Giuseppe Fusco (DiBIO), Clelia Gasparini (DiBIO), Alessandro Grapputo (DiBIO), Nicoletta La Rocca (DiBIO), Andrea Pilastro (DiBIO), Gil Rosenthal (DiBIO) and Tommaso Sitzia (TESAF)
-#### Foundings
+
+#### Duration
+
+From 1st Sept 2022 to 31st Aug 2025
+
+#### Fundings
+
 PNRR 
+
 
 <br><br>
 
 # Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities
+
 (UniPD, GSSI, UniRoma1)<br><br>
-From Oct 2023 to Sept 2025
+
 #### People
+
 Amos Maritan, Sandro Azaele and Christian Grilletta
+
 #### Collaborators
+
 Giacomo Gradenigo, Maria C. Angelini and Andrea Crisanti
-#### Foundings
+
+#### Duration
+
+From Oct 2023 to Sept 2025
+
+#### Fundings
+
 PRIN
 
 <br><br>
 
 # Ecological responses to perturbations
+
 #### People
+
 Sandro Azaele, Samir Suweis, Davide Zanchetta
+
 #### Collaborators
+
 Piratech
-#### Foundings
+
+#### Fundings
+
 PON
+
+
 
 <br><br>
 
+
+
 # Coevolutionary modelling of sustainable use of common pool resources
+
 #### People
+
 Sandro Azaele, Samir Suweis, Fabio Menegazzo
+
 #### Collaborators
+
 Piratech
-#### Foundings
+
+#### Fundings
+
  PON
+
+
