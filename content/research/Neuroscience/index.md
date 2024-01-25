@@ -104,3 +104,5 @@ Pietro Avanzini, Maurizio Corbetta, Marco Dal Maschio, Judith Gervain, Marcello 
 > ![Logo fare](logo_fare.jpg){height=600px} FARE (MUR)
 > ![Logo PON](logo_PON.png){height=600px} PON
 > ![Logo neu](logo_neu.png){height=600px} Dottorato Nazionale  -  Theoretical and Applied Neuroscience
+
+<br><br>
