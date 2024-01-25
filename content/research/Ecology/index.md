@@ -59,7 +59,7 @@ Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO),
 
 #### Duration
 
-From 1st Sept 2022 to 31st Aug 2025
+From 1st Sept 2022 to 31st Aug 2025 <br>
 
 #### Fundings
 
@@ -70,7 +70,7 @@ PNRR
 
 # Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities
 
-UniPD, GSSI, UniRoma1 
+UniPD, GSSI, UniRoma1 <br>
 
 #### People
 
