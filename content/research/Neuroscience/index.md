@@ -96,11 +96,11 @@ Pietro Avanzini, Maurizio Corbetta, Marco Dal Maschio, Judith Gervain, Marcello 
 
 > # Fundings
 >
-> <img src="logo_erc.png" alt="Logo ERC" style="max-height:600px;"> ERC Synergy
-> <img src="logo_PRIN.png" alt="Logo PRIN" style="max-height:600px;"> PRIN 2022
-> <img src="logo_dfa.png" alt="Logo DFA" style="max-height:600px;"> PARD 2023 - UNIPD DFA
-> <img src="logo_fare.jpg" alt="Logo FARE" style="max-height:600px;"> FARE (MUR)
-> <img src="logo_PON.png" alt="Logo PON" style="max-height:600px;"> PON
-> <img src="logo_neu.png" alt="Logo NEU" style="max-height:600px;"> Dottorato Nazionale  -  Theoretical and Applied Neuroscience
+> <img src="logo_erc.png" alt="Logo ERC" style="max-height:200px;"> ERC Synergy
+> <img src="logo_PRIN.png" alt="Logo PRIN" style="max-height:200px;"> PRIN 2022
+> <img src="logo_dfa.png" alt="Logo DFA" style="max-height:200px;"> PARD 2023 - UNIPD DFA
+> <img src="logo_fare.jpg" alt="Logo FARE" style="max-height:200px;"> FARE (MUR)
+> <img src="logo_PON.png" alt="Logo PON" style="max-height:200px;"> PON
+> <img src="logo_neu.png" alt="Logo NEU" style="max-height:200px;"> Dottorato Nazionale  -  Theoretical and Applied Neuroscience
 
 <br><br>
