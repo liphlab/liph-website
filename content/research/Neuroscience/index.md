@@ -61,19 +61,6 @@ Samir Suweis, Ramon Guevara, Benedetta Mariani, Giacomo Barzon, Jesus Encinas
 <br><br>
 
 
-# Effect of stroke and diseases in brain structure and dynamics
-
-#### People
-
-Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon 
-
-> #### Fundings
-> <img src="logo_erc.png" alt="Logo ERC" style="max-height:80px;margin-left: 10px;">
-
-<br><br>
-
-
-
 # Response theory for brain network discovery and control
 
 #### People
@@ -96,6 +83,18 @@ Samir Suweis, Michele Allegra, Sandro Azaele, Amos Maritan, Elisa Tentori, Andre
 > #### Fundings
 > <img src="logo_PON.png" alt="Logo PON" style="max-height:80px;margin-left: 10px;">
 > <img src="logo_neu.png" alt="Logo NEU" style="max-height:80px;margin-left: 10px;">
+
+<br><br>
+
+
+# Effect of stroke and diseases in brain structure and dynamics
+
+#### People
+
+Samir Suweis, Michele Allegra, Ramon Guevara, Giacomo Barzon 
+
+> #### Fundings
+> <img src="logo_erc.png" alt="Logo ERC" style="max-height:80px;margin-left: 10px;">
 
 <br><br>
 
