@@ -11,7 +11,7 @@ summary = "Associate Professor"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
-tags = ["people", "SPAED"]
+tags = ["people"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://www.researchgate.net/profile/Marco_Formentin"
