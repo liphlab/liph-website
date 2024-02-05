@@ -55,7 +55,7 @@
 [[main]]
   parent = "events"
   name = "REIMOCEAN 2024"
-  url = "https://liphlab.github.io/REIMOCEAN2024/"
+  url = "https://liphlab.github.io/REIMOCEAN24/"
   weight = 10
 
 [[main]]
