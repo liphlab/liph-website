@@ -48,34 +48,34 @@
 
 [[main]]
   parent = "events"
+  name = "SMEEB 2024"
+  url = "https://liphlab.github.io/SMEEB2024/"
+  weight = 9
+
+[[main]]
+  parent = "events"
   name = "Kickoff Meeting 2023"
   url = "https://liphlab.github.io/kickoff2023/"
-  weight = 9
+  weight = 10
 
   [[main]]
       parent = "events"
       name = "Winter Workshop 2023"
       url = "https://liphlab.github.io/liphworkshop2023/"
-      weight = 10
+      weight = 11
 
 [[main]]
     parent = "events"
     name = "Spring Workshop 2022"
     url = "https://liphlab.github.io/liphworkshop2022/"
-    weight = 11
+    weight = 12
 
 [[main]]
     parent = "events"
     name = "REACT 2021"
     url = "https://liphlab.github.io/REACT2021/"
-    weight = 12
-
-[[main]]
-  parent = "events"
-  name = "SMEEB 2024"
-  url = "https://liphlab.github.io/SMEEB2024/"
-  weight = 13
-
+    weight = 13
+    
 [[main]]
   parent = "events"
   name = "Winter Workshop 2020"
