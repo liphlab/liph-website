@@ -59,18 +59,18 @@ Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO),
 
 #### Duration
 
-From 1st Sept 2022 to 31st Aug 2025 <br>
+From 1st Sept 2022 to 31st Aug 2025
 
-#### Fundings
-
-PNRR 
+> #### Fundings
+>
+> PNRR 
 
 
 <br><br>
 
 # Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities
 
-UniPD, GSSI, UniRoma1 <br>
+UniPD, GSSI, UniRoma1 
 
 #### People
 
@@ -84,9 +84,9 @@ Giacomo Gradenigo, Maria C. Angelini and Andrea Crisanti
 
 From Oct 2023 to Sept 2025
 
-#### Fundings
-
-PRIN
+> #### Fundings
+> 
+> PRIN
 
 <br><br>
 
@@ -100,9 +100,9 @@ Sandro Azaele, Samir Suweis, Davide Zanchetta
 
 Piratech
 
-#### Fundings
-
-PON
+> #### Fundings
+> 
+> PON
 
 
 
@@ -120,8 +120,8 @@ Sandro Azaele, Samir Suweis, Fabio Menegazzo
 
 Piratech
 
-#### Fundings
-
- PON
+> #### Fundings
+> 
+> PON
 
 
