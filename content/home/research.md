@@ -49,7 +49,7 @@ filter_default = 0
   tag = "neuroscience"
 
 [[filter]]
-  name = "System Biology"
+  name = "Systems Biology"
   tag = "systems-biology"
 
 

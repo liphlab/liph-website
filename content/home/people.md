@@ -54,8 +54,8 @@ filter_default = 0
   tag = "neuroscience"
 
 [[filter]]
-  name = "System Biology"
-  tag = "biology"
+  name = "Systems Biology"
+  tag = "systems-biology"
 
 #[[filter]]
 #  name = "QuCoBiM"
