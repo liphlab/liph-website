@@ -50,7 +50,7 @@ filter_default = 0
 
 [[filter]]
   name = "System Biology"
-  tag = "biology"
+  tag = "systems-biology"
 
 
 [[filter]]
