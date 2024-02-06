@@ -46,24 +46,24 @@ filter_default = 0
   tag = "people"
 
 [[filter]]
-  name = "SPAED"
-  tag = "SPAED"
+  name = "Ecology"
+  tag = "ecology"
 
 [[filter]]
-  name = "SPAN"
-  tag = "SPAN"
+  name = "Neuroscience"
+  tag = "neuroscience"
 
 [[filter]]
-  name = "ReACT"
-  tag = "ReACT"
+  name = "System Biology"
+  tag = "biology"
 
 #[[filter]]
 #  name = "QuCoBiM"
 #  tag = "QuCoBiM"
 
-[[filter]]
-  name = "Other"
-  tag = "QucoBiM, NeSM, ProBiPoNaM, miscellaneous"
+#[[filter]]
+#  name = "Other"
+#  tag = "QucoBiM, NeSM, ProBiPoNaM, miscellaneous"
 
 #[[filter]]
 #  name = "NeSM"
