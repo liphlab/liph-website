@@ -10,10 +10,10 @@ summary = "SPAED"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["old-research-project"]
+tags = ["code-data","old-research-project"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/liphlab/Upscaling-Species-Richness-and-Abundances-in-Tropical-Forests"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
