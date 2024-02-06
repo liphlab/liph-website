@@ -11,7 +11,7 @@ summary = "Principal Investigator"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
-tags = ["people", "SPAED", "ReACT"]
+tags = ["people", "ecology", "neuroscience"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
