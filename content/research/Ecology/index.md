@@ -62,7 +62,7 @@ Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO),
 From 1st Sept 2022 to 31st Aug 2025
 
 > #### Fundings
-> <img src="nbfc.jpg" alt="Logo NBFC" style="max-height:80px;margin-left: 0px;">
+> <img src="nbfc.jpeg" alt="Logo NBFC" style="max-height:80px;margin-left: 0px;">
 
 
 <br><br>
