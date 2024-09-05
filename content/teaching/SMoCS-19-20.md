@@ -6,7 +6,7 @@ date = "2019-12-06"
 title = "Statistical Mechanics of Complex Systems"
 
 # Project summary to display on homepage.
-summary = "Master's Degree in Mathematical Engineering and Physics of Data"
+summary = "Master's Degree in Mathematical Engineering, Physics of Data and Geophysics for Natural Risks and Resources"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""
@@ -16,7 +16,7 @@ image_preview = ""
 tags = ["current-course", "master-course"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://en.didattica.unipd.it/off/2018/LM/IN/IN2191/001PD/INP5070381/N0"
+external_link = "https://didattica.unipd.it/off/2023/LM/SC/SC2443/000ZZ/SCP8082536/N0"
 
 # Does the project detail page use math formatting?
 math = false

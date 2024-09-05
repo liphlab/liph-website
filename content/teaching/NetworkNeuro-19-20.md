@@ -6,7 +6,7 @@ date = "2019-12-06"
 title = "Network Neuroscience"
 
 # Project summary to display on homepage.
-summary = "Ph.D. course in Neuroscience, Padova Neuroscience Center, Academic Year 2019-2020"
+summary = "Ph.D. course in Neuroscience, Padova Neuroscience Center"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""

@@ -62,8 +62,7 @@ Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO),
 From 1st Sept 2022 to 31st Aug 2025
 
 > #### Fundings
->
-> PNRR 
+> <img src="nbfc.jpeg" alt="Logo NBFC" style="max-height:80px;margin-left: 0px;">
 
 
 <br><br>
@@ -85,8 +84,7 @@ Giacomo Gradenigo, Maria C. Angelini and Andrea Crisanti
 From Oct 2023 to Sept 2025
 
 > #### Fundings
-> 
-> PRIN
+> <img src="logo_PRIN.png" alt="Logo PRIN" style="max-height:80px;margin-left: 0px;">
 
 <br><br>
 
@@ -101,8 +99,7 @@ Sandro Azaele, Samir Suweis, Davide Zanchetta
 Piratech
 
 > #### Fundings
-> 
-> PON
+> <img src="logo_PON.png" alt="Logo PON" style="max-height:80px;margin-left: 0px;">
 
 
 
@@ -121,7 +118,5 @@ Sandro Azaele, Samir Suweis, Fabio Menegazzo
 Piratech
 
 > #### Fundings
-> 
-> PON
-
+> <img src="logo_PON.png" alt="Logo PON" style="max-height:80px;margin-left: 0px;">
 
