@@ -1,13 +1,13 @@
 +++
 # Date this page was created.
 # We use this to control sort order, most recent dates appear first
-date = "1999-11-25"
+date = "1997-11-04"
 
 # Project title.
 title = "Christian Grilletta"
 
 # Project summary to display on homepage.
-summary = "Research fellow"
+summary = "PhD student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
@@ -26,8 +26,8 @@ caption = ""
 
 +++
 
-My name is Christian Grilletta and I am a graduate student in Physics at the University of Padova.
+My name is Christian Grilletta, and I am a PhD student in Physics at the University of Padova.
 
-During my Master’s Degree I increased my interest in Non-equilibrium Statistical Mechanics and Physics of Complex Systems and I worked on my Master’s thesis under the supervision of Prof. Amos Maritan and Prof. Samir Suweis.
+I obtained my Master’s degree in Physics from the University of Padova, where I worked on my Master’s thesis at the Laboratory of Interdisciplinary Physics under the supervision of Prof. Amos Maritan and Prof. Samir Suweis, investigating the properties of the disordered Lotka-Volterra equations.
 
-I am currently a research fellow at LIPh and I am working on the development of my Master’s thesis project, investigating the properties of the disordered Lotka-Volterra equations.
+During my Master’s studies I developed my interest in non-equilibrium statistical mechanics and physics of complex systems, particularly their ability to describe simple emergent patterns from complicated systems of interactions. My research focuses on applying these powerful tools and methods to the complex systems which are common in nature, specifically within ecology.

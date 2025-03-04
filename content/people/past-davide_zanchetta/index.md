@@ -7,11 +7,11 @@ date = "2011-12-25"
 title = "Davide Zanchetta"
 
 # Project summary to display on homepage.
-summary = "PhD student"
+summary = "Former PhD student"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]``
-tags = ["people", "ecology"]
+tags = ["past-members"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
