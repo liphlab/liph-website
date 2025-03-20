@@ -67,9 +67,21 @@ From 1st Sept 2022 to 31st Aug 2025
 
 <br><br>
 
-# Emergent Dynamical Patterns of Disordered Systems with Applications to Natural             Communities
+# Emergent Dynamical Patterns of Disordered Systems with Applications to Natural Communities (2022WPHMXK)
 
 UniPD, GSSI, UniRoma1 
+
+#### Description
+This project aims to apply physics principles from disordered systems to theoretical ecology to study large-scale properties of species-rich ecosystems. Key objectives include:
+
+- Using quenched random variables to model environmental randomness and species heterogeneity
+- Examining equilibrium and non-equilibrium properties of community models, including their empirical setting and statistical inference
+- Developing models that incorporate species interactions in varying environments
+- Creating a unified statistical mechanics framework to explain and predict biodiversity patterns
+
+The research will analyze models which include processes such as reproduction, death, metabolism, dispersal, migration, and species interactions to understand how stable biodiversity is maintained. This understanding is crucial for ecosystem sustainability and developing forecasting strategies for disturbances like pathogens, climate change, and human impacts.
+
+The project unites researchers from statistical mechanics and condensed matter physics into an interdisciplinary team combining expertise in disordered systems and complex ecological systems. It involves collaboration between three Italian universities (Padova, Rome "La Sapienza", and Gran Sasso Science Institute-L'Aquila) and aligns with European Green Deal and Italian "Piano Nazionale di Ripresa e Resilienza" priorities, particularly regarding biodiversity preservation.
 
 #### People
 
@@ -81,7 +93,7 @@ Giacomo Gradenigo, Maria C. Angelini and Andrea Crisanti
 
 #### Duration
 
-From Oct 2023 to Sept 2025
+From 1st Oct 2023 to 31st Dec 2025
 
 > #### Fundings
 > <img src="logo_PRIN.png" alt="Logo PRIN" style="max-height:80px;margin-left: 0px;">
@@ -99,6 +111,7 @@ Sandro Azaele, Samir Suweis, Davide Zanchetta
 Piratech
 
 > #### Fundings
+Fundings received from MUR: 209,723€
 > <img src="logo_PON.png" alt="Logo PON" style="max-height:80px;margin-left: 0px;">
 
 
