@@ -45,6 +45,60 @@ url_code = ""
 +++
 
 
+
+
+
+
+
+
+# Anchialos: Diversity, Function, and Resilience of Italian Coastal Aquifers upon Global Climatic Changes
+
+
+#### Description
+
+This project aims to develop a holistic understanding of how climate change impacts coastal aquifers, ecosystems crucial for over a billion people. The primary objectives include:
+- Characterizing coastal aquifer biodiversity using a combination of zoology, ecology, molecular biology, and complex systems science.
+- Developing ecological networks to model the resilience of these ecosystems to large-scale climatic changes.
+- Creating a unified theoretical framework that bridges species-level dynamics with ecosystem-wide processes.
+
+The project focuses on four key coastal karstic aquifers in Italy: Capo Caccia (SS), Punta Campanella (NA), Monte Argentario (GR), and Castro Marina (LE). These sites will be sampled through caves and beaches to analyze biodiversity and ecological parameters.
+
+The research is structured into four working packages (WPs):
+1. Biodiversity Characterization: Identifying species and their traits using high-throughput sequencing (HTS).
+2. Quantifying Species Abundances: Robustly estimating population distributions across different habitats.
+3. Experimental Analysis: Conducting in-situ mesocosm experiments to assess species interactions under varying environmental conditions.
+4. Ecological Network Modeling: Integrating data to simulate biodiversity changes under future climate scenarios.
+
+##### Scientific and Societal Impact
+- Discovery of new species and development of open-access datasets for conservation.
+- Enhancement of management strategies for coastal aquifers, supporting biodiversity preservation.
+- Public outreach and dissemination, raising awareness about aquifer vulnerability and ecosystem services.
+
+This project aligns with global sustainability goals by offering a framework to protect and manage coastal aquifers in Italy, with potential applications in other European regions and aligns with European Green Deal and Italian “Piano Nazionale di Ripresa e Resilienza” priorities, particularly regarding biodiversity preservation.
+
+
+#### People
+
+Samir Suweis, Silvia Lazzardi, Jacopo Fadanni
+
+#### Collaborators
+
+Alejandro Martínez García (CRN Verbania)
+
+
+#### Duration
+From 1st Oct 2023 to 30th Sept 2025
+
+
+> #### Fundings
+Fundings received from MUR for the Padua unit: 70,000€
+> <img src="logo_PNRR.png" alt="Logo PNRR" style="max-height:80px;margin-left: 0px;">
+
+
+
+<br><br>
+
+
 # National Biodiversity Future Center
 
 NBFC, CN5 (Hub in Palermo), 8 Spokes
@@ -138,42 +192,3 @@ Piratech
 > <img src="logo_PON.png" alt="Logo PON" style="max-height:80px;margin-left: 0px;">
 
 
-
-
-<br><br>
-
-
-
-# Anchialos: Diversity, Function, and Resilience of Italian Coastal Aquifers upon Global Climatic Changes
-
-
-#### Description
-
-This project aims to develop a holistic understanding of how climate change impacts coastal aquifers, ecosystems crucial for over a billion people. The primary objectives include:
-- Characterizing coastal aquifer biodiversity using a combination of zoology, ecology, molecular biology, and complex systems science.
-- Developing ecological networks to model the resilience of these ecosystems to large-scale climatic changes.
-- Creating a unified theoretical framework that bridges species-level dynamics with ecosystem-wide processes.
-
-The project focuses on four key coastal karstic aquifers in Italy: Capo Caccia (SS), Punta Campanella (NA), Monte Argentario (GR), and Castro Marina (LE). These sites will be sampled through caves and beaches to analyze biodiversity and ecological parameters.
-
-The research is structured into four working packages (WPs):
-1. Biodiversity Characterization: Identifying species and their traits using high-throughput sequencing (HTS).
-2. Quantifying Species Abundances: Robustly estimating population distributions across different habitats.
-3. Experimental Analysis: Conducting in-situ mesocosm experiments to assess species interactions under varying environmental conditions.
-4. Ecological Network Modeling: Integrating data to simulate biodiversity changes under future climate scenarios.
-
-##### Scientific and Societal Impact
-- Discovery of new species and development of open-access datasets for conservation.
-- Enhancement of management strategies for coastal aquifers, supporting biodiversity preservation.
-- Public outreach and dissemination, raising awareness about aquifer vulnerability and ecosystem services.
-
-This project aligns with global sustainability goals by offering a framework to protect and manage coastal aquifers in Italy, with potential applications in other European regions and aligns with European Green Deal and Italian “Piano Nazionale di Ripresa e Resilienza” priorities, particularly regarding biodiversity preservation.
-
-
-#### Duration
-From 1st Oct 2023 to 30th Sept 2025
-
-
-> #### Fundings
-Fundings received from MUR for the Padua unit: 70,000€
-> <img src="logo_PNRR.png" alt="Logo PNRR" style="max-height:80px;margin-left: 0px;">
