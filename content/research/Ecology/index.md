@@ -99,27 +99,7 @@ Fundings received from MUR for the Padua unit: 70,000€
 <br><br>
 
 
-# National Biodiversity Future Center
 
-NBFC, CN5 (Hub in Palermo), 8 Spokes
-
-#### People
-
-Amos Maritan, Sandro Azaele, Davide Bernardi, Alice Doimo and Francesco Ferraro
-
-#### Collaborators
-
-Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO), Lucio Bonato (DiBIO), Thomas Campagnaro (TESAF), Leonardo Congiu (DiBIO), Giuseppe Fusco (DiBIO), Clelia Gasparini (DiBIO), Alessandro Grapputo (DiBIO), Nicoletta La Rocca (DiBIO), Andrea Pilastro (DiBIO), Gil Rosenthal (DiBIO) and Tommaso Sitzia (TESAF)
-
-#### Duration
-
-From 1st Sept 2022 to 31st Aug 2025
-
-> #### Fundings
-> <img src="nbfc.jpeg" alt="Logo NBFC" style="max-height:80px;margin-left: 0px;">
-
-
-<br><br>
 
 # Emergent Dynamical Patterns of Disordered Systems with Applications to Natural Communities (2022WPHMXK)
 
@@ -151,6 +131,30 @@ From 1st Oct 2023 to 31st Dec 2025
 
 > #### Fundings
 > <img src="logo_PRIN.png" alt="Logo PRIN" style="max-height:80px;margin-left: 0px;">
+
+
+
+
+<br><br>
+
+# National Biodiversity Future Center
+
+NBFC, CN5 (Hub in Palermo), 8 Spokes
+
+#### People
+
+Amos Maritan, Sandro Azaele, Davide Bernardi, Alice Doimo and Francesco Ferraro
+
+#### Collaborators
+
+Alessandro Alboresi (DiBIO), Tommaso Anfodillo (TESAF),  Barbara Baldan (DiBIO), Lucio Bonato (DiBIO), Thomas Campagnaro (TESAF), Leonardo Congiu (DiBIO), Giuseppe Fusco (DiBIO), Clelia Gasparini (DiBIO), Alessandro Grapputo (DiBIO), Nicoletta La Rocca (DiBIO), Andrea Pilastro (DiBIO), Gil Rosenthal (DiBIO) and Tommaso Sitzia (TESAF)
+
+#### Duration
+
+From 1st Sept 2022 to 31st Aug 2025
+
+> #### Fundings
+> <img src="nbfc.jpeg" alt="Logo NBFC" style="max-height:80px;margin-left: 0px;">
 
 
 
