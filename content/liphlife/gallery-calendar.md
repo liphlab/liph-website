@@ -12,7 +12,7 @@ subtitle = ""
 
 [[gallery_item]]
 album = "LIPh_life"
-image = "liph_life/science4all.jpeg"
+image = "liph_life/science4all.jpg"
 caption = "Science4All in Padua"
 
 [[gallery_item]]
