@@ -12,6 +12,11 @@ subtitle = ""
 
 [[gallery_item]]
 album = "LIPh_life"
+image = "liph_life/science4all.jpeg"
+caption = "Science4All in Padua"
+
+[[gallery_item]]
+album = "LIPh_life"
 image = "liph_life/folgaria2020.jpeg"
 caption = "Hiking in the mountains near Folgaria (2020-01-17)"
 
