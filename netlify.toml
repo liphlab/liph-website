@@ -1,9 +1,8 @@
 [build]
-  command = "hugo"
+  command = "curl -sL https://github.com/gohugoio/hugo/releases/download/v0.53/hugo_0.53_Linux-64bit.tar.gz | tar -xz hugo && ./hugo"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.53"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
