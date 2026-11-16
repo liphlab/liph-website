@@ -2,7 +2,7 @@
 title = "Landscape and environmental heterogeneity support coexistence in competitive metacommunities"
 date = "2024-10-22"
 
-authors = ["Prajwal Padmanabha*", "Giorgio Nicoletti*", "Davide Bernardi*", "Samir Suweis", "Sandro Azaele", "Andrea Rinaldo", "Amos Maritan"]
+authors = ["Prajwal Padmanabha", "Giorgio Nicoletti*", "Davide Bernardi*", "Samir Suweis", "Sandro Azaele", "Andrea Rinaldo", "Amos Maritan"]
 
 publication_types = ["2"]
 

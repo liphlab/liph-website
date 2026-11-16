@@ -2,7 +2,7 @@
 title = "Exact solution of dynamical mean-field theory for a linear system with annealed disorder"
 date = "2025-02-04"
 
-authors = ["Francesco Ferraro*", "Christian Grilletta*", "Amos Maritan", "Samir Suweis", "Sandro Azaele"]
+authors = ["Francesco Ferraro", "Christian Grilletta*", "Amos Maritan", "Samir Suweis", "Sandro Azaele"]
 
 publication_types = ["2"]
 
