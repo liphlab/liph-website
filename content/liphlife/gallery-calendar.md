@@ -12,6 +12,16 @@ subtitle = ""
 
 [[gallery_item]]
 album = "LIPh_life"
+image = "liph_life/grigliata2025.jpg"
+caption = "Group barbecue (July 2025)"
+
+[[gallery_item]]
+album = "LIPh_life"
+image = "liph_life/statphys29.jpg"
+caption = "StatPhys29 conference in Florence (July 2025)"
+
+[[gallery_item]]
+album = "LIPh_life"
 image = "liph_life/science4all.jpg"
 caption = "Science4All in Padua"
 
