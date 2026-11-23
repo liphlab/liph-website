@@ -4,7 +4,7 @@
 date = "1997-08-05"
 
 # Project title.
-title = "Federico Puccioni"
+title = "Francesco Puccioni"
 
 # Project summary to display on homepage.
 summary = "Postdoctoral researcher"
